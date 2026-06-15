@@ -1,0 +1,499 @@
+match_id,date,begin_at,end_at,team_1,team_2,team_1_id,team_2_id,team_1_score,team_2_score,winner,winner_id,status,match_type,number_of_games,league,serie,tournament,event_name
+1540259,2026-06-15,2026-06-15T13:35:05Z,2026-06-15T14:57:29Z,EAC Rising,eSuba,138820,127497,0,2,eSuba,127497,finished,best_of,3,United21,—,Group A,United21 / Group A
+1519604,2026-06-15,2026-06-15T14:30:52Z,2026-06-15T15:47:44Z,Virtus.pro,brazylijski luz,3288,132679,2,0,Virtus.pro,3288,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1525870,2026-06-15,2026-06-15T08:40:11Z,2026-06-15T10:11:30Z,Rooster,DXA Esports,127114,133211,2,0,Rooster,127114,finished,best_of,3,Dfrag,Open Series #5,Playoffs,Dfrag / Open Series #5 / Playoffs
+1540258,2026-06-15,2026-06-15T08:02:29Z,2026-06-15T10:16:39Z,Millennium Esports,Coalesce,137470,129463,1,2,Coalesce,129463,finished,best_of,3,United21,—,Group A,United21 / Group A
+1517525,2026-06-15,2026-06-15T08:12:59Z,2026-06-15T10:57:06Z,Gentle Mates,Acend,137296,137546,2,1,Gentle Mates,137296,finished,best_of,3,NODWIN Clutch Series,—,Playoffs,NODWIN Clutch Series / Playoffs
+1504771,2026-06-15,2026-06-15T10:50:40Z,2026-06-15T12:43:37Z,Walczaki,G2 Ares,138610,135321,2,0,Walczaki,138610,finished,best_of,3,European Pro League,Series 7,Playoffs,European Pro League / Series 7 / Playoffs
+1517526,2026-06-15,2026-06-15T11:17:36Z,2026-06-15T13:31:29Z,100 Thieves,Betclic Apogee Esports,126452,135381,2,0,100 Thieves,126452,finished,best_of,3,NODWIN Clutch Series,—,Playoffs,NODWIN Clutch Series / Playoffs
+1513150,2026-06-15,2026-06-15T12:01:31Z,2026-06-15T13:58:24Z,9z,TheMongolz,126709,3272,2,0,9z,126709,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1519603,2026-06-15,2026-06-15T11:03:19Z,2026-06-15T14:11:11Z,Bebop,RUSTEC,137701,134815,2,1,Bebop,137701,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1517527,2026-06-15,2026-06-15T14:08:49Z,2026-06-15T15:38:46Z,Team Nemesis,CYBERSHOKE Esports,137289,133542,2,0,Team Nemesis,137289,finished,best_of,3,NODWIN Clutch Series,—,Playoffs,NODWIN Clutch Series / Playoffs
+1513151,2026-06-15,2026-06-15T14:31:02Z,2026-06-15T16:13:52Z,BetBoom Team,FUT Esports,133458,136955,2,0,BetBoom Team,133458,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1536143,2026-06-15,2026-06-15T21:14:26Z,2026-06-15T22:09:52Z,QUINTESSÊNCIA,BESTIA Academy,138524,135743,0,1,BESTIA Academy,135743,finished,best_of,1,Gamers Club Liga Série A,June,Group A,Gamers Club Liga Série A / June / Group A
+1541286,2026-06-15,2026-06-15T17:10:54Z,2026-06-15T18:54:02Z,Fortress,WAZABI,137953,137950,2,0,Fortress,137953,finished,best_of,3,Dust2.dk Ligaen,Division 1,Playoffs,Dust2.dk Ligaen / Division 1 / Playoffs
+1517528,2026-06-15,2026-06-15T17:12:38Z,2026-06-15T19:04:08Z,Infinite,ex-RUBY,127976,137932,2,0,Infinite,127976,finished,best_of,3,NODWIN Clutch Series,—,Playoffs,NODWIN Clutch Series / Playoffs
+1519605,2026-06-15,2026-06-15T17:02:29Z,2026-06-15T19:16:55Z,SPARTA,G2 Ares,136659,135321,2,0,SPARTA,136659,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1541285,2026-06-15,2026-06-15T17:04:30Z,2026-06-15T19:27:04Z,AaB Bulls,Linx Legacy Esport,138577,129876,1,2,Linx Legacy Esport,129876,finished,best_of,3,Dust2.dk Ligaen,Division 1,Playoffs,Dust2.dk Ligaen / Division 1 / Playoffs
+1513152,2026-06-15,2026-06-15T17:00:58Z,2026-06-15T20:39:36Z,Natus Vincere,G2,3216,3210,1,2,G2,3210,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1526459,2026-06-15,2026-06-15T18:05:48Z,2026-06-15T20:40:46Z,ReThink,Wingman,137967,135326,2,1,ReThink,137967,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1534439,2026-06-15,2026-06-15T20:16:21Z,2026-06-15T21:01:00Z,paiN Academy,ODDIK,131849,131253,0,1,ODDIK,131253,finished,best_of,1,Gamers Club Liga Série A,June,Group D,Gamers Club Liga Série A / June / Group D
+1534441,2026-06-15,2026-06-15T21:14:23Z,2026-06-15T21:50:58Z,MIBR Academy,Hunters Rising,129800,138686,0,1,Hunters Rising,138686,finished,best_of,1,Gamers Club Liga Série A,June,Group C,Gamers Club Liga Série A / June / Group C
+1525871,2026-06-15,2026-06-15T08:13:30Z,2026-06-15T09:42:03Z,Ground Zero,MARKandLARRY,125873,127125,2,0,Ground Zero,125873,finished,best_of,3,Dfrag,Open Series #5,Playoffs,Dfrag / Open Series #5 / Playoffs
+1537571,2026-06-15,2026-06-15T21:21:56Z,2026-06-15T22:00:41Z,largadosypelados,HATERS,131848,138796,1,0,largadosypelados,131848,finished,best_of,1,Gamers Club Liga Série A,June,Group B,Gamers Club Liga Série A / June / Group B
+1504768,2026-06-14,2026-06-14T10:38:38Z,2026-06-14T13:21:37Z,Nuclear TigeRES,Oxuji Esports,135673,133994,1,2,Oxuji Esports,133994,finished,best_of,3,European Pro League,Series 7,Playoffs,European Pro League / Series 7 / Playoffs
+1534987,2026-06-14,2026-06-14T17:26:25Z,2026-06-14T20:36:25Z,Metizport,Alliance,129440,133725,1,2,Alliance,133725,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1517524,2026-06-14,2026-06-14T17:04:21Z,2026-06-14T18:59:51Z,illwill,Nuclear TigeRES,137511,135673,0,2,Nuclear TigeRES,135673,finished,best_of,3,NODWIN Clutch Series,—,Playoffs,NODWIN Clutch Series / Playoffs
+1527911,2026-06-14,2026-06-14T17:43:50Z,2026-06-14T18:56:55Z,Bushido Wildcats,Eternal Fire Academy,136934,130059,2,0,Bushido Wildcats,136934,finished,best_of,3,TESFED League,—,Playoffs,TESFED League / Playoffs
+1513149,2026-06-14,2026-06-14T17:00:51Z,2026-06-14T18:37:41Z,G2,Legacy,3210,133708,2,0,G2,3210,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1527910,2026-06-14,2026-06-14T16:05:19Z,2026-06-14T17:23:08Z,FULLPOWER,FUT Turkuaz,138772,137202,0,2,FUT Turkuaz,137202,finished,best_of,3,TESFED League,—,Playoffs,TESFED League / Playoffs
+1533929,2026-06-14,2026-06-13T22:12:08Z,2026-06-14T00:28:58Z,Marsborne,Festina Lente,136318,138795,2,1,Marsborne,136318,finished,best_of,3,NSTLGA League,—,Playoffs,NSTLGA League / Playoffs
+1533930,2026-06-14,2026-06-13T22:12:15Z,2026-06-14T00:38:17Z,Detonate,Iowa Stormboar,129547,138716,1,2,Iowa Stormboar,138716,finished,best_of,3,NSTLGA League,—,Playoffs,NSTLGA League / Playoffs
+1534982,2026-06-14,2026-06-14T08:03:23Z,2026-06-14T09:26:09Z,Nexus,Noir Verse,126699,138812,2,0,Nexus,126699,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1534983,2026-06-14,2026-06-14T08:03:17Z,2026-06-14T09:40:05Z,BASEMENT BOYS,Alliance,136516,133725,0,2,Alliance,133725,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1517521,2026-06-14,2026-06-14T08:11:09Z,2026-06-14T09:49:47Z,K27,Walczaki,135298,138610,2,0,K27,135298,finished,best_of,3,NODWIN Clutch Series,—,Playoffs,NODWIN Clutch Series / Playoffs
+1530797,2026-06-14,2026-06-14T08:08:30Z,2026-06-14T09:58:46Z,WRAITH PCIFIC,Clutchain,138660,138496,0,2,Clutchain,138496,finished,best_of,3,United21,—,Playoffs,United21 / Playoffs
+1519583,2026-06-14,2026-06-14T08:02:09Z,2026-06-14T10:48:21Z,illwill,Virtus.pro,137511,3288,2,1,illwill,137511,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1534984,2026-06-14,2026-06-14T11:02:13Z,2026-06-14T12:37:21Z,fnatic,Metizport,3217,129440,0,2,Metizport,129440,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1534985,2026-06-14,2026-06-14T11:01:45Z,2026-06-14T13:21:20Z,Nexus,Alliance,126699,133725,1,2,Alliance,133725,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1513146,2026-06-14,2026-06-14T15:22:42Z,2026-06-14T17:19:15Z,BetBoom Team,Vitality,133458,3455,0,2,Vitality,3455,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1517522,2026-06-14,2026-06-14T11:03:13Z,2026-06-14T13:26:18Z,HOTU,KOLESIE,130569,137112,2,0,HOTU,130569,finished,best_of,3,NODWIN Clutch Series,—,Playoffs,NODWIN Clutch Series / Playoffs
+1519584,2026-06-14,2026-06-14T11:05:10Z,2026-06-14T13:38:00Z,SPARTA,Leo Team,136659,133269,1,2,Leo Team,133269,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1513145,2026-06-14,2026-06-14T12:00:54Z,2026-06-14T15:00:14Z,TheMongolz,Monte,3272,131441,2,1,TheMongolz,3272,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1513144,2026-06-14,2026-06-14T12:00:59Z,2026-06-14T15:01:53Z,MOUZ,FUT Esports,3240,136955,1,2,FUT Esports,136955,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1517523,2026-06-14,2026-06-14T14:09:05Z,2026-06-14T16:03:19Z,1WIN,TDK,126944,137948,0,2,TDK,137948,finished,best_of,3,NODWIN Clutch Series,—,Playoffs,NODWIN Clutch Series / Playoffs
+1504769,2026-06-14,2026-06-14T13:36:23Z,2026-06-14T16:31:42Z,Infinite,Virtus.pro,127976,3288,2,1,Infinite,127976,finished,best_of,3,European Pro League,Series 7,Playoffs,European Pro League / Series 7 / Playoffs
+1513147,2026-06-14,2026-06-14T15:19:59Z,2026-06-14T16:40:08Z,Aurora Gaming,9z,131505,126709,2,0,Aurora Gaming,131505,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1519586,2026-06-14,2026-06-14T17:16:51Z,2026-06-14T20:08:59Z,Ursa,GenOne,136900,128519,2,1,Ursa,136900,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1526460,2026-06-14,2026-06-14T17:55:52Z,2026-06-14T20:47:19Z,OLDBOYS PL,Arch,137474,138465,1,2,Arch,138465,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1519585,2026-06-14,2026-06-14T14:05:34Z,2026-06-14T16:50:49Z,ex-RUBY,INOX Division,137932,138617,1,2,INOX Division,138617,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1533932,2026-06-14,2026-06-14T22:09:49Z,2026-06-14T23:33:54Z,Marsborne,Iowa Stormboar,136318,138716,2,0,Marsborne,136318,finished,best_of,3,NSTLGA League,—,Playoffs,NSTLGA League / Playoffs
+1533931,2026-06-14,2026-06-14T19:14:13Z,2026-06-14T21:00:12Z,Festina Lente,Iowa Stormboar,138795,138716,1,2,Iowa Stormboar,138716,finished,best_of,3,NSTLGA League,—,Playoffs,NSTLGA League / Playoffs
+1534986,2026-06-14,2026-06-14T14:04:28Z,2026-06-14T16:50:26Z,fnatic,Alliance,3217,133725,1,2,Alliance,133725,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1513148,2026-06-14,2026-06-14T17:41:29Z,2026-06-14T21:01:56Z,Natus Vincere,Team Falcons,3216,130564,1,2,Team Falcons,130564,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1534972,2026-06-13,2026-06-13T11:02:20Z,2026-06-13T12:39:18Z,Minkens finest,6666,137555,138811,0,2,6666,138811,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1533937,2026-06-13,2026-06-13T08:06:45Z,2026-06-13T09:36:38Z,Sashi Academy,Washed,133941,138580,0,2,Washed,138580,finished,best_of,3,Dust2.dk Ligaen,—,Group A,Dust2.dk Ligaen / Group A
+1533926,2026-06-13,2026-06-13T01:12:09Z,2026-06-13T02:17:59Z,Club 333,Iowa Stormboar,138415,138716,0,2,Iowa Stormboar,138716,finished,best_of,3,NSTLGA League,—,Playoffs,NSTLGA League / Playoffs
+1533923,2026-06-13,2026-06-13T01:18:39Z,2026-06-13T02:32:50Z,Marsborne,Overtake,136318,138652,2,0,Marsborne,136318,finished,best_of,3,NSTLGA League,—,Playoffs,NSTLGA League / Playoffs
+1533924,2026-06-13,2026-06-13T01:18:41Z,2026-06-13T02:56:27Z,Festina Lente,Detonate,138795,129547,2,0,Festina Lente,138795,finished,best_of,3,NSTLGA League,—,Playoffs,NSTLGA League / Playoffs
+1533925,2026-06-13,2026-06-13T01:42:04Z,2026-06-13T04:33:48Z,F5 Esports,Wanted Goons,134773,134333,1,2,Wanted Goons,134333,finished,best_of,3,NSTLGA League,—,Playoffs,NSTLGA League / Playoffs
+1534958,2026-06-13,2026-06-13T08:02:45Z,2026-06-13T08:58:38Z,Alliance,Saab,133725,138810,2,0,Alliance,133725,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1534962,2026-06-13,2026-06-13T08:01:35Z,2026-06-13T09:02:28Z,fnatic,Minkens finest,3217,137555,2,0,fnatic,3217,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1534964,2026-06-13,2026-06-13T08:10:28Z,2026-06-13T09:29:59Z,BASEMENT BOYS,Gaming By Legends,136516,138489,2,0,BASEMENT BOYS,136516,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1519579,2026-06-13,2026-06-13T08:17:35Z,2026-06-13T09:48:46Z,Oxuji Esports,brazylijski luz,133994,132679,0,2,brazylijski luz,132679,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1534973,2026-06-13,2026-06-13T11:09:20Z,2026-06-13T12:39:03Z,Gaming By Legends, Gatorian,138489,138087,0,2, Gatorian,138087,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1534963,2026-06-13,2026-06-13T08:02:10Z,2026-06-13T09:49:27Z,aimclub,6666,134320,138811,2,0,aimclub,134320,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1534965,2026-06-13,2026-06-13T08:03:08Z,2026-06-13T10:41:45Z,Entropy, Gatorian,128258,138087,2,1,Entropy,128258,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1534961,2026-06-13,2026-06-13T08:10:16Z,2026-06-13T11:01:51Z,Esport Academy Copenhagen,Noir Verse,138685,138812,2,1,Esport Academy Copenhagen,138685,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1513137,2026-06-13,2026-06-13T09:00:52Z,2026-06-13T11:53:35Z,B8,FUT Esports,129381,136955,1,2,FUT Esports,136955,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1513136,2026-06-13,2026-06-13T09:00:57Z,2026-06-13T12:00:25Z,Natus Vincere,TheMongolz,3216,3272,2,1,Natus Vincere,3216,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1534959,2026-06-13,2026-06-13T08:29:02Z,2026-06-13T12:04:17Z,PURE,Nexus,138419,126699,1,2,Nexus,126699,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1504757,2026-06-13,2026-06-13T10:41:54Z,2026-06-13T12:16:06Z,Oxuji Esports,Misa Esports,133994,137075,2,0,Oxuji Esports,133994,finished,best_of,3,European Pro League,Series 7,Group B,European Pro League / Series 7 / Group B
+1534960,2026-06-13,2026-06-13T08:04:12Z,2026-06-13T09:52:15Z,Metizport,Atputies,129440,129370,2,0,Metizport,129440,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1534971,2026-06-13,2026-06-13T11:27:52Z,2026-06-13T12:57:28Z,Atputies,Noir Verse,129370,138812,0,2,Noir Verse,138812,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1534970,2026-06-13,2026-06-13T12:29:06Z,2026-06-13T13:36:27Z,Saab,PURE,138810,138419,0,2,PURE,138419,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1534977,2026-06-13,2026-06-13T15:06:06Z,2026-06-13T17:31:28Z,Entropy,Noir Verse,128258,138812,1,2,Noir Verse,138812,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1533944,2026-06-13,2026-06-13T12:21:10Z,2026-06-13T13:54:19Z,MASQ,Washed,138578,138580,0,2,Washed,138580,finished,best_of,3,Dust2.dk Ligaen,—,Playoffs,Dust2.dk Ligaen / Playoffs
+1519580,2026-06-13,2026-06-13T11:05:29Z,2026-06-13T13:56:21Z,RUSTEC,HEROIC Academy,134815,136815,2,1,RUSTEC,134815,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1534969,2026-06-13,2026-06-13T11:12:53Z,2026-06-13T13:58:11Z,BASEMENT BOYS,Entropy,136516,128258,2,1,BASEMENT BOYS,136516,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1513138,2026-06-13,2026-06-13T12:21:15Z,2026-06-13T14:14:09Z,Aurora Gaming,G2,131505,3210,2,0,Aurora Gaming,131505,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1534967,2026-06-13,2026-06-13T11:26:07Z,2026-06-13T15:19:16Z,Metizport,Esport Academy Copenhagen,129440,138685,2,1,Metizport,129440,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1534966,2026-06-13,2026-06-13T12:27:48Z,2026-06-13T15:20:03Z,Alliance,Nexus,133725,126699,1,2,Nexus,126699,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1533943,2026-06-13,2026-06-13T12:21:02Z,2026-06-13T15:22:08Z,STATE,MASONIC,137861,127911,1,2,MASONIC,127911,finished,best_of,3,Dust2.dk Ligaen,—,Playoffs,Dust2.dk Ligaen / Playoffs
+1513139,2026-06-13,2026-06-13T12:13:53Z,2026-06-13T15:25:52Z,Team Falcons,Monte,130564,131441,2,1,Team Falcons,130564,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1519581,2026-06-13,2026-06-13T14:23:49Z,2026-06-13T16:03:20Z,PsychoFace,G2 Ares,138537,135321,2,0,PsychoFace,138537,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1534975,2026-06-13,2026-06-13T15:05:54Z,2026-06-13T16:30:39Z,fnatic,BASEMENT BOYS,3217,136516,2,0,fnatic,3217,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1534976,2026-06-13,2026-06-13T15:03:27Z,2026-06-13T16:33:07Z,PURE,aimclub,138419,134320,0,2,aimclub,134320,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1534974,2026-06-13,2026-06-13T16:08:47Z,2026-06-13T17:20:35Z,Metizport,Nexus,129440,126699,2,0,Metizport,129440,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1513140,2026-06-13,2026-06-13T14:34:54Z,2026-06-13T17:22:14Z,Vitality,MOUZ,3455,3240,2,1,Vitality,3455,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1534978,2026-06-13,2026-06-13T16:02:48Z,2026-06-13T17:36:43Z,Alliance,6666,133725,138811,2,0,Alliance,133725,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1513143,2026-06-13,2026-06-13T18:55:31Z,2026-06-13T22:38:23Z,Spirit,9z,124523,126709,2,1,Spirit,124523,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1469385,2026-06-13,2026-06-13T14:05:20Z,2026-06-13T17:40:25Z,The Last Resort,Dripmen,130590,130594,3,1,The Last Resort,130590,finished,best_of,5,UKIC,Masters Division,Playoffs,UKIC / Masters Division / Playoffs
+1513141,2026-06-13,2026-06-13T15:45:52Z,2026-06-13T18:34:45Z,PARIVISION,Legacy,133719,133708,0,2,Legacy,133708,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1527906,2026-06-13,2026-06-13T16:06:54Z,2026-06-13T18:48:55Z,Misa Esports,Fire Flux Esports,137075,135474,2,1,Misa Esports,137075,finished,best_of,3,TESFED League,—,Playoffs,TESFED League / Playoffs
+1534979,2026-06-13,2026-06-13T16:06:11Z,2026-06-13T19:11:43Z,Esport Academy Copenhagen, Gatorian,138685,138087,2,1,Esport Academy Copenhagen,138685,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1513142,2026-06-13,2026-06-13T17:43:41Z,2026-06-13T19:23:35Z,BetBoom Team,FURIA,133458,124530,0,2,FURIA,124530,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1519582,2026-06-13,2026-06-13T17:06:45Z,2026-06-13T19:33:57Z,KOLESIE,Bebop,137112,137701,2,1,KOLESIE,137112,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1537055,2026-06-13,2026-06-13T16:53:28Z,2026-06-13T19:36:05Z,MASQ,STATE,138578,137861,1,2,STATE,137861,finished,best_of,3,Dust2.dk Ligaen,—,Playoffs,Dust2.dk Ligaen / Playoffs
+1533945,2026-06-13,2026-06-13T16:53:25Z,2026-06-13T19:39:31Z,Washed,MASONIC,138580,127911,2,1,Washed,138580,finished,best_of,3,Dust2.dk Ligaen,—,Playoffs,Dust2.dk Ligaen / Playoffs
+1534980,2026-06-13,2026-06-13T18:05:20Z,2026-06-13T20:14:15Z,aimclub,Noir Verse,134320,138812,1,2,Noir Verse,138812,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1534981,2026-06-13,2026-06-13T19:29:39Z,2026-06-13T20:56:30Z,Alliance,Esport Academy Copenhagen,133725,138685,2,0,Alliance,133725,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1533927,2026-06-13,2026-06-13T19:46:21Z,2026-06-13T21:28:57Z,Detonate,Wanted Goons,129547,134333,2,0,Detonate,129547,finished,best_of,3,NSTLGA League,—,Playoffs,NSTLGA League / Playoffs
+1533928,2026-06-13,2026-06-13T19:43:38Z,2026-06-13T21:32:37Z,Iowa Stormboar,Overtake,138716,138652,2,1,Iowa Stormboar,138716,finished,best_of,3,NSTLGA League,—,Playoffs,NSTLGA League / Playoffs
+1534968,2026-06-13,2026-06-13T11:03:13Z,2026-06-13T12:47:58Z,fnatic,aimclub,3217,134320,2,0,fnatic,3217,finished,best_of,3,ROG Journey,—,Playoffs,ROG Journey / Playoffs
+1527907,2026-06-13,2026-06-13T19:08:04Z,2026-06-13T22:02:44Z,VENOM ESPOR,WRAITH PCIFIC,138773,138660,1,2,WRAITH PCIFIC,138660,finished,best_of,3,TESFED League,—,Playoffs,TESFED League / Playoffs
+1533942,2026-06-13,2026-06-13T08:08:12Z,2026-06-13T10:21:48Z,struggletony,MASONIC,128432,127911,0,2,MASONIC,127911,finished,best_of,3,Dust2.dk Ligaen,—,Group B,Dust2.dk Ligaen / Group B
+1504762,2026-06-12,2026-06-12T08:04:00Z,2026-06-12T10:10:59Z,against All authority,Young Ninjas,137790,128327,0,2,Young Ninjas,128327,finished,best_of,3,European Pro League,Series 7,Group C,European Pro League / Series 7 / Group C
+1513132,2026-06-12,2026-06-12T14:40:07Z,2026-06-12T16:27:44Z,Natus Vincere,Legacy,3216,133708,2,0,Natus Vincere,3216,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1533939,2026-06-12,2026-06-12T16:22:03Z,2026-06-12T17:02:21Z,struggletony,MASONIC,128432,127911,0,1,MASONIC,127911,finished,best_of,1,Dust2.dk Ligaen,—,Group B,Dust2.dk Ligaen / Group B
+1533934,2026-06-12,2026-06-12T16:08:12Z,2026-06-12T16:58:46Z,Sashi Academy,STATE,133941,137861,0,1,STATE,137861,finished,best_of,1,Dust2.dk Ligaen,—,Group A,Dust2.dk Ligaen / Group A
+1533933,2026-06-12,2026-06-12T16:10:01Z,2026-06-12T16:58:34Z,Washed,Invicta,138580,137951,1,0,Washed,138580,finished,best_of,1,Dust2.dk Ligaen,—,Group A,Dust2.dk Ligaen / Group A
+1536133,2026-06-12,2026-06-12T16:22:13Z,2026-06-12T16:58:21Z,Gaming By Legends,6666,138489,138811,0,1,6666,138811,finished,best_of,1,ROG Journey,—,Group A,ROG Journey / Group A
+1536132,2026-06-12,2026-06-12T16:21:23Z,2026-06-12T16:58:10Z,Grillmix,1337HUANIA,138815,127004,0,1,1337HUANIA,127004,finished,best_of,1,ROG Journey,—,Group A,ROG Journey / Group A
+1519577,2026-06-12,2026-06-12T14:13:50Z,2026-06-12T16:54:24Z,SPARTA,GenOne,136659,128519,1,2,GenOne,128519,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1527903,2026-06-12,2026-06-12T15:08:25Z,2026-06-12T16:52:19Z,FUT Turkuaz,Fire Flux Esports,137202,135474,0,2,Fire Flux Esports,135474,finished,best_of,3,TESFED League,—,Playoffs,TESFED League / Playoffs
+1504752,2026-06-12,2026-06-12T14:07:08Z,2026-06-12T16:46:53Z,brazylijski luz,HyperSpirit,132679,133988,1,2,HyperSpirit,133988,finished,best_of,3,European Pro League,Series 7,Group A,European Pro League / Series 7 / Group A
+1536149,2026-06-12,2026-06-12T16:18:49Z,2026-06-12T16:46:43Z,Nexus,Atputies,126699,129370,1,0,Nexus,126699,finished,best_of,1,ROG Journey,—,Group B,ROG Journey / Group B
+1536147,2026-06-12,2026-06-12T16:14:23Z,2026-06-12T16:44:44Z, Gatorian,XCLAN,138087,138712,1,0, Gatorian,138087,finished,best_of,1,ROG Journey,—,Group B,ROG Journey / Group B
+1536130,2026-06-12,2026-06-12T16:12:46Z,2026-06-12T16:32:48Z,Noir Verse,Saab,138812,138810,1,0,Noir Verse,138812,finished,best_of,1,ROG Journey,—,Group A,ROG Journey / Group A
+1536148,2026-06-12,2026-06-12T16:07:34Z,2026-06-12T16:32:37Z,Benjis Anglar,Minkens finest,138816,137555,0,1,Minkens finest,137555,finished,best_of,1,ROG Journey,—,Group B,ROG Journey / Group B
+1536124,2026-06-12,2026-06-12T15:19:49Z,2026-06-12T16:02:02Z,6666,1337HUANIA,138811,127004,1,0,6666,138811,finished,best_of,1,ROG Journey,—,Group A,ROG Journey / Group A
+1519575,2026-06-12,2026-06-12T08:07:59Z,2026-06-12T09:58:51Z,ex-RUBY,G2 Ares,137932,135321,2,0,ex-RUBY,137932,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1536116,2026-06-12,2026-06-12T15:28:25Z,2026-06-12T15:53:45Z,Gaming By Legends,Saab,138489,138810,1,0,Gaming By Legends,138489,finished,best_of,1,ROG Journey,—,Group A,ROG Journey / Group A
+1536145,2026-06-12,2026-06-12T15:31:03Z,2026-06-12T15:53:37Z,Nexus,XCLAN,126699,138712,1,0,Nexus,126699,finished,best_of,1,ROG Journey,—,Group B,ROG Journey / Group B
+1536146,2026-06-12,2026-06-12T15:12:51Z,2026-06-12T15:50:52Z,Atputies,Minkens finest,129370,137555,1,0,Atputies,129370,finished,best_of,1,ROG Journey,—,Group B,ROG Journey / Group B
+1536144,2026-06-12,2026-06-12T15:30:59Z,2026-06-12T15:50:46Z, Gatorian,Benjis Anglar,138087,138816,1,0, Gatorian,138087,finished,best_of,1,ROG Journey,—,Group B,ROG Journey / Group B
+1536109,2026-06-12,2026-06-12T15:05:45Z,2026-06-12T15:49:43Z,Noir Verse,Grillmix,138812,138815,1,0,Noir Verse,138812,finished,best_of,1,ROG Journey,—,Group A,ROG Journey / Group A
+1513130,2026-06-12,2026-06-12T12:11:48Z,2026-06-12T14:49:34Z,FUT Esports,G2,136955,3210,1,2,G2,3210,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1530793,2026-06-12,2026-06-12T12:40:53Z,2026-06-12T14:30:59Z,Clutchain,ex-MANA eSports,138496,138777,2,0,Clutchain,138496,finished,best_of,3,United21,—,Playoffs,United21 / Playoffs
+1513131,2026-06-12,2026-06-12T11:30:59Z,2026-06-12T14:19:56Z,PARIVISION,Monte,133719,131441,1,2,Monte,131441,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1504767,2026-06-12,2026-06-12T10:36:47Z,2026-06-12T13:31:06Z,GenOne,Virtus.pro,128519,3288,1,2,Virtus.pro,3288,finished,best_of,3,European Pro League,Series 7,Group D,European Pro League / Series 7 / Group D
+1513128,2026-06-12,2026-06-12T09:02:15Z,2026-06-12T11:49:35Z,FURIA,MOUZ,124530,3240,2,1,FURIA,124530,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1526033,2026-06-12,2026-06-12T08:59:58Z,2026-06-12T11:41:01Z,Ding Cuts,DXA Esports,138015,133211,1,2,DXA Esports,133211,finished,best_of,3,Dfrag,Open Series #5,Group B,Dfrag / Open Series #5 / Group B
+1525986,2026-06-12,2026-06-12T08:42:40Z,2026-06-12T11:08:44Z,MARKandLARRY,Abyssal,127125,138092,2,1,MARKandLARRY,127125,finished,best_of,3,Dfrag,Open Series #5,Group A,Dfrag / Open Series #5 / Group A
+1513133,2026-06-12,2026-06-12T15:10:22Z,2026-06-12T17:05:53Z,Team Falcons,BetBoom Team,130564,133458,0,2,BetBoom Team,133458,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1533938,2026-06-12,2026-06-12T16:22:07Z,2026-06-12T17:07:09Z,XI Esport,MASQ,131591,138578,0,1,MASQ,138578,finished,best_of,1,Dust2.dk Ligaen,—,Group B,Dust2.dk Ligaen / Group B
+1536152,2026-06-12,2026-06-12T17:09:19Z,2026-06-12T17:30:15Z,Benjis Anglar,Nexus,138816,126699,0,1,Nexus,126699,finished,best_of,1,ROG Journey,—,Group B,ROG Journey / Group B
+1536136,2026-06-12,2026-06-12T17:11:40Z,2026-06-12T17:33:43Z,Grillmix,Gaming By Legends,138815,138489,0,1,Gaming By Legends,138489,finished,best_of,1,ROG Journey,—,Group A,ROG Journey / Group A
+1526458,2026-06-12,2026-06-12T17:49:20Z,2026-06-12T20:39:48Z,OLDBOYS PL,Donstu Esports,137474,135981,2,1,OLDBOYS PL,137474,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1533935,2026-06-12,2026-06-12T17:58:16Z,2026-06-12T20:31:30Z,Washed,STATE,138580,137861,1,2,STATE,137861,finished,best_of,3,Dust2.dk Ligaen,—,Group A,Dust2.dk Ligaen / Group A
+1536156,2026-06-12,2026-06-12T19:44:49Z,2026-06-12T20:21:16Z, Gatorian,Nexus,138087,126699,0,1,Nexus,126699,finished,best_of,1,ROG Journey,—,Group B,ROG Journey / Group B
+1513134,2026-06-12,2026-06-12T17:25:55Z,2026-06-12T20:12:47Z,Aurora Gaming,Spirit,131505,124523,1,2,Spirit,124523,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1536157,2026-06-12,2026-06-12T19:39:20Z,2026-06-12T20:01:56Z,Atputies,Benjis Anglar,129370,138816,1,0,Atputies,129370,finished,best_of,1,ROG Journey,—,Group B,ROG Journey / Group B
+1536142,2026-06-12,2026-06-12T19:10:16Z,2026-06-12T19:55:45Z,1337HUANIA,Saab,127004,138810,0,1,Saab,138810,finished,best_of,1,ROG Journey,—,Group A,ROG Journey / Group A
+1536158,2026-06-12,2026-06-12T19:10:25Z,2026-06-12T19:49:07Z,Minkens finest,XCLAN,137555,138712,1,0,Minkens finest,137555,finished,best_of,1,ROG Journey,—,Group B,ROG Journey / Group B
+1536140,2026-06-12,2026-06-12T19:12:31Z,2026-06-12T19:48:54Z,Noir Verse,Gaming By Legends,138812,138489,1,0,Noir Verse,138812,finished,best_of,1,ROG Journey,—,Group A,ROG Journey / Group A
+1534440,2026-06-12,2026-06-12T18:18:31Z,2026-06-12T19:38:33Z,METANOIA WOLVES,Alzon,138086,137459,0,1,Alzon,137459,finished,best_of,1,Gamers Club Liga Série A,June,Group C,Gamers Club Liga Série A / June / Group C
+1513135,2026-06-12,2026-06-12T16:47:53Z,2026-06-12T19:38:29Z,Vitality,9z,3455,126709,1,2,9z,126709,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1533941,2026-06-12,2026-06-12T17:58:49Z,2026-06-12T19:35:13Z,struggletony,XI Esport,128432,131591,2,0,struggletony,128432,finished,best_of,3,Dust2.dk Ligaen,—,Group B,Dust2.dk Ligaen / Group B
+1536141,2026-06-12,2026-06-12T19:10:02Z,2026-06-12T19:29:31Z,6666,Grillmix,138811,138815,1,0,6666,138811,finished,best_of,1,ROG Journey,—,Group A,ROG Journey / Group A
+1533936,2026-06-12,2026-06-12T17:53:07Z,2026-06-12T19:20:21Z,Invicta,Sashi Academy,137951,133941,0,2,Sashi Academy,133941,finished,best_of,3,Dust2.dk Ligaen,—,Group A,Dust2.dk Ligaen / Group A
+1536153,2026-06-12,2026-06-12T18:07:19Z,2026-06-12T19:20:09Z, Gatorian,Atputies,138087,129370,1,0, Gatorian,138087,finished,best_of,1,ROG Journey,—,Group B,ROG Journey / Group B
+1527904,2026-06-12,2026-06-12T17:24:00Z,2026-06-12T19:19:31Z,Eternal Fire Academy,WRAITH PCIFIC,130059,138660,1,2,WRAITH PCIFIC,138660,finished,best_of,3,TESFED League,—,Playoffs,TESFED League / Playoffs
+1519578,2026-06-12,2026-06-12T17:17:24Z,2026-06-12T19:01:39Z,Ursa,Leo Team,136900,133269,2,0,Ursa,136900,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1536137,2026-06-12,2026-06-12T18:03:33Z,2026-06-12T18:50:07Z,Noir Verse,6666,138812,138811,0,1,6666,138811,finished,best_of,1,ROG Journey,—,Group A,ROG Journey / Group A
+1536155,2026-06-12,2026-06-12T18:04:48Z,2026-06-12T18:44:07Z,XCLAN,Benjis Anglar,138712,138816,1,0,XCLAN,138712,finished,best_of,1,ROG Journey,—,Group B,ROG Journey / Group B
+1536138,2026-06-12,2026-06-12T18:03:36Z,2026-06-12T18:43:01Z,1337HUANIA,Gaming By Legends,127004,138489,0,1,Gaming By Legends,138489,finished,best_of,1,ROG Journey,—,Group A,ROG Journey / Group A
+1536154,2026-06-12,2026-06-12T18:04:14Z,2026-06-12T18:41:38Z,Minkens finest,Nexus,137555,126699,0,1,Nexus,126699,finished,best_of,1,ROG Journey,—,Group B,ROG Journey / Group B
+1536139,2026-06-12,2026-06-12T17:59:52Z,2026-06-12T18:36:37Z,Grillmix,Saab,138815,138810,0,1,Saab,138810,finished,best_of,1,ROG Journey,—,Group A,ROG Journey / Group A
+1536151,2026-06-12,2026-06-12T17:08:25Z,2026-06-12T17:50:22Z,XCLAN,Atputies,138712,129370,0,1,Atputies,129370,finished,best_of,1,ROG Journey,—,Group B,ROG Journey / Group B
+1536134,2026-06-12,2026-06-12T17:14:57Z,2026-06-12T17:46:29Z,Noir Verse,1337HUANIA,138812,127004,1,0,Noir Verse,138812,finished,best_of,1,ROG Journey,—,Group A,ROG Journey / Group A
+1536135,2026-06-12,2026-06-12T17:12:02Z,2026-06-12T17:44:08Z,Saab,6666,138810,138811,0,1,6666,138811,finished,best_of,1,ROG Journey,—,Group A,ROG Journey / Group A
+1536150,2026-06-12,2026-06-12T17:07:45Z,2026-06-12T17:35:50Z, Gatorian,Minkens finest,138087,137555,1,0, Gatorian,138087,finished,best_of,1,ROG Journey,—,Group B,ROG Journey / Group B
+1513129,2026-06-12,2026-06-12T09:00:54Z,2026-06-12T10:51:08Z,TheMongolz,B8,3272,129381,2,0,TheMongolz,3272,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1533940,2026-06-12,2026-06-12T17:58:19Z,2026-06-12T21:41:57Z,MASONIC,MASQ,127911,138578,1,2,MASQ,138578,finished,best_of,3,Dust2.dk Ligaen,—,Group B,Dust2.dk Ligaen / Group B
+1533920,2026-06-12,2026-06-12T02:12:36Z,2026-06-12T04:38:30Z,Wanted Goons,Overtake,134333,138652,1,2,Overtake,138652,finished,best_of,3,NSTLGA League,—,Playoffs,NSTLGA League / Playoffs
+1533921,2026-06-12,2026-06-12T01:37:00Z,2026-06-12T04:02:51Z,Detonate,Iowa Stormboar,129547,138716,2,1,Detonate,129547,finished,best_of,3,NSTLGA League,—,Playoffs,NSTLGA League / Playoffs
+1533922,2026-06-12,2026-06-12T01:06:49Z,2026-06-12T03:14:54Z,Club 333,Festina Lente,138415,138795,0,2,Festina Lente,138795,finished,best_of,3,NSTLGA League,—,Playoffs,NSTLGA League / Playoffs
+1533919,2026-06-12,2026-06-12T01:05:20Z,2026-06-12T02:33:52Z,Marsborne,F5 Esports,136318,134773,2,0,Marsborne,136318,finished,best_of,3,NSTLGA League,—,Playoffs,NSTLGA League / Playoffs
+1530794,2026-06-12,2026-06-12T08:08:45Z,2026-06-12T09:48:33Z,WRAITH PCIFIC,STEP,138660,138778,2,1,WRAITH PCIFIC,138660,finished,best_of,3,United21,—,Playoffs,United21 / Playoffs
+1517518,2026-06-11,2026-06-11T08:50:28Z,2026-06-11T10:48:09Z,Acend,INOX Division,137546,138617,2,1,Acend,137546,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1513123,2026-06-11,2026-06-11T14:17:23Z,2026-06-11T16:05:16Z,FURIA,B8,124530,129381,2,0,FURIA,124530,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1519574,2026-06-11,2026-06-11T17:04:38Z,2026-06-11T19:31:08Z,KOLESIE,HEROIC Academy,137112,136815,2,1,KOLESIE,137112,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1526457,2026-06-11,2026-06-11T17:30:00Z,2026-06-11T19:30:00Z,XI Esport,Wingman,131591,135326,0,2,Wingman,135326,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1513121,2026-06-11,2026-06-11T15:06:11Z,2026-06-11T18:25:37Z,Team Falcons,G2,130564,3210,2,1,Team Falcons,130564,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1513124,2026-06-11,2026-06-11T16:30:55Z,2026-06-11T18:25:01Z,Aurora Gaming,Monte,131505,131441,2,0,Aurora Gaming,131505,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1519573,2026-06-11,2026-06-11T14:05:21Z,2026-06-11T16:39:17Z,Bebop,Oxuji Esports,137701,133994,2,1,Bebop,137701,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1530792,2026-06-11,2026-06-11T10:39:40Z,2026-06-11T14:21:28Z,UNiTY esports,ex-MANA eSports,133063,138777,1,2,ex-MANA eSports,138777,finished,best_of,3,United21,—,Playoffs,United21 / Playoffs
+1517520,2026-06-11,2026-06-11T14:04:26Z,2026-06-11T15:56:52Z,SPARTA,KOLESIE,136659,137112,0,2,KOLESIE,137112,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1513120,2026-06-11,2026-06-11T12:14:17Z,2026-06-11T14:44:58Z,Vitality,FUT Esports,3455,136955,2,1,Vitality,3455,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1513127,2026-06-11,2026-06-11T12:09:57Z,2026-06-11T13:48:43Z,MOUZ,Legacy,3240,133708,2,0,MOUZ,3240,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1517519,2026-06-11,2026-06-11T11:07:49Z,2026-06-11T13:44:20Z,AM Gaming,CYBERSHOKE Esports,136817,133542,1,2,CYBERSHOKE Esports,133542,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1519572,2026-06-11,2026-06-11T11:08:30Z,2026-06-11T13:17:11Z,illwill,RUSTEC,137511,134815,2,0,illwill,137511,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1504766,2026-06-11,2026-06-11T11:00:45Z,2026-06-11T12:51:26Z,KOLESIE,Virtus.pro,137112,3288,2,0,KOLESIE,137112,finished,best_of,3,European Pro League,Series 7,Group D,European Pro League / Series 7 / Group D
+1513122,2026-06-11,2026-06-11T18:45:58Z,2026-06-11T20:27:40Z,Natus Vincere,Spirit,3216,124523,0,2,Spirit,124523,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1513126,2026-06-11,2026-06-11T09:04:20Z,2026-06-11T11:55:09Z,TheMongolz,BetBoom Team,3272,133458,1,2,BetBoom Team,133458,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1526031,2026-06-11,2026-06-11T08:34:53Z,2026-06-11T09:52:30Z,Ground Zero,Ding Cuts,125873,138015,2,0,Ground Zero,125873,finished,best_of,3,Dfrag,Open Series #5,Group B,Dfrag / Open Series #5 / Group B
+1519571,2026-06-11,2026-06-11T08:08:29Z,2026-06-11T09:35:40Z,PsychoFace,brazylijski luz,138537,132679,2,0,PsychoFace,138537,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1504765,2026-06-11,2026-06-11T08:00:12Z,2026-06-11T10:45:09Z,Lazer Cats,GenOne,132426,128519,1,2,GenOne,128519,finished,best_of,3,European Pro League,Series 7,Group D,European Pro League / Series 7 / Group D
+1513125,2026-06-11,2026-06-11T09:00:56Z,2026-06-11T11:51:11Z,PARIVISION,9z,133719,126709,1,2,9z,126709,finished,best_of,3,IEM,Cologne Major,Stage 3,IEM / Cologne Major / Stage 3
+1526032,2026-06-11,2026-06-11T08:32:51Z,2026-06-11T10:07:19Z,DXA Esports,Masked Regime,133211,138779,2,0,DXA Esports,133211,finished,best_of,3,Dfrag,Open Series #5,Group B,Dfrag / Open Series #5 / Group B
+1530791,2026-06-11,2026-06-11T08:16:50Z,2026-06-11T09:40:01Z,Xept,Clutchain,138689,138496,0,2,Clutchain,138496,finished,best_of,3,United21,—,Playoffs,United21 / Playoffs
+1517517,2026-06-10,2026-06-10T14:07:25Z,2026-06-10T17:24:54Z,Walczaki,INOX Division,138610,138617,2,1,Walczaki,138610,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1517516,2026-06-10,2026-06-10T11:00:59Z,2026-06-10T12:50:49Z,SPARTA,Atreides,136659,138026,2,0,SPARTA,136659,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1526455,2026-06-10,2026-06-10T17:48:43Z,2026-06-10T19:18:03Z,Falcons Force,OLDBOYS PL,137508,137474,0,2,OLDBOYS PL,137474,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1526454,2026-06-10,2026-06-10T17:51:46Z,2026-06-10T19:54:07Z,NEW VISION,XI Esport,138650,131591,0,2,XI Esport,131591,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1526453,2026-06-10,2026-06-10T17:50:11Z,2026-06-10T20:29:14Z,Wingman,eternal premium,135326,135978,2,1,Wingman,135326,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1526456,2026-06-10,2026-06-10T17:46:03Z,2026-06-10T20:34:28Z,B8 Academy,Donstu Esports,137538,135981,1,2,Donstu Esports,135981,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1519570,2026-06-10,2026-06-10T17:50:16Z,2026-06-10T20:38:51Z,illwill,G2 Ares,137511,135321,1,2,G2 Ares,135321,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1530788,2026-06-10,2026-06-10T10:37:20Z,2026-06-10T13:35:12Z,Clutchain,STEP,138496,138778,1,2,STEP,138778,finished,best_of,3,United21,—,Playoffs,United21 / Playoffs
+1504761,2026-06-10,2026-06-10T11:30:14Z,2026-06-10T14:02:28Z,G2 Ares,Young Ninjas,135321,128327,2,1,G2 Ares,135321,finished,best_of,3,European Pro League,Series 7,Group C,European Pro League / Series 7 / Group C
+1519568,2026-06-10,2026-06-10T11:11:32Z,2026-06-10T13:52:58Z,Ursa,HEROIC Academy,136900,136815,2,1,Ursa,136900,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1519567,2026-06-10,2026-06-10T08:16:43Z,2026-06-10T09:42:05Z,SPARTA,brazylijski luz,136659,132679,2,0,SPARTA,136659,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1530787,2026-06-10,2026-06-10T08:15:37Z,2026-06-10T10:05:15Z,WRAITH PCIFIC,UNiTY esports,138660,133063,2,0,WRAITH PCIFIC,138660,finished,best_of,3,United21,—,Playoffs,United21 / Playoffs
+1528517,2026-06-10,2026-06-10T08:31:36Z,2026-06-10T10:25:57Z,Ding Cuts,DXA Esports,138015,133211,2,0,Ding Cuts,138015,finished,best_of,3,Dfrag,Open Series #5,Group B,Dfrag / Open Series #5 / Group B
+1528516,2026-06-10,2026-06-10T08:36:43Z,2026-06-10T11:02:28Z,Ground Zero,Masked Regime,125873,138779,2,1,Ground Zero,125873,finished,best_of,3,Dfrag,Open Series #5,Group B,Dfrag / Open Series #5 / Group B
+1504760,2026-06-10,2026-06-10T08:00:05Z,2026-06-10T11:03:22Z,against All authority,RUSTEC,137790,134815,2,1,against All authority,137790,finished,best_of,3,European Pro League,Series 7,Group C,European Pro League / Series 7 / Group C
+1519569,2026-06-10,2026-06-10T14:10:47Z,2026-06-10T17:12:00Z,KOLESIE,Leo Team,137112,133269,1,2,Leo Team,133269,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1517512,2026-06-09,2026-06-09T08:03:21Z,2026-06-09T10:05:03Z,CYBERSHOKE Esports,ex-RUBY,133542,137932,0,2,ex-RUBY,137932,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1530789,2026-06-09,2026-06-09T08:17:27Z,2026-06-09T09:48:36Z,Xept,NAVI Junior,138689,126491,2,0,Xept,138689,finished,best_of,3,United21,—,Playoffs,United21 / Playoffs
+1525975,2026-06-09,2026-06-09T08:36:42Z,2026-06-09T09:49:10Z,MGLBROS,MARKandLARRY,138511,127125,0,2,MARKandLARRY,127125,finished,best_of,3,Dfrag,Open Series #5,Group A,Dfrag / Open Series #5 / Group A
+1504755,2026-06-09,2026-06-09T08:07:59Z,2026-06-09T09:50:07Z,MANA eSports,Oxuji Esports,137080,133994,0,2,Oxuji Esports,133994,finished,best_of,3,European Pro League,Series 7,Group B,European Pro League / Series 7 / Group B
+1525974,2026-06-09,2026-06-09T08:40:56Z,2026-06-09T11:18:53Z,Abyssal,Rooster,138092,127114,1,2,Rooster,127114,finished,best_of,3,Dfrag,Open Series #5,Group A,Dfrag / Open Series #5 / Group A
+1504756,2026-06-09,2026-06-09T10:34:36Z,2026-06-09T12:09:10Z,Lavked,Misa Esports,138370,137075,2,0,Lavked,138370,finished,best_of,3,European Pro League,Series 7,Group B,European Pro League / Series 7 / Group B
+1530790,2026-06-09,2026-06-09T10:36:03Z,2026-06-09T13:32:20Z,INFURITY Gaming,ex-MANA eSports,132795,138777,1,2,ex-MANA eSports,138777,finished,best_of,3,United21,—,Playoffs,United21 / Playoffs
+1519564,2026-06-09,2026-06-09T11:03:14Z,2026-06-09T13:33:45Z,ex-RUBY,RUSTEC,137932,134815,2,1,ex-RUBY,137932,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1508713,2026-06-09,2026-06-09T12:01:55Z,2026-06-09T13:54:18Z,Monte,paiN,131441,125751,2,0,Monte,131441,finished,best_of,3,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1517513,2026-06-09,2026-06-09T11:04:07Z,2026-06-09T13:58:07Z,Betclic Apogee Esports,AM Gaming,135381,136817,2,1,Betclic Apogee Esports,135381,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1508714,2026-06-09,2026-06-09T14:30:59Z,2026-06-09T16:12:42Z,TYLOO,Legacy,3248,133708,0,2,Legacy,133708,finished,best_of,3,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1519565,2026-06-09,2026-06-09T14:15:56Z,2026-06-09T16:17:07Z,Virtus.pro,Oxuji Esports,3288,133994,2,0,Virtus.pro,3288,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1517514,2026-06-09,2026-06-09T14:22:24Z,2026-06-09T16:19:13Z,KOLESIE,RUSTEC,137112,134815,2,0,KOLESIE,137112,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1520721,2026-06-09,2026-06-09T17:10:24Z,2026-06-09T19:19:30Z,Invicta,L.820,137951,138604,2,1,Invicta,137951,finished,best_of,3,Dust2.dk Ligaen,—,Group Stage,Dust2.dk Ligaen / Group Stage
+1519566,2026-06-09,2026-06-09T17:12:20Z,2026-06-09T20:03:21Z,PsychoFace,GenOne,138537,128519,1,2,GenOne,128519,finished,best_of,3,CCT Europe,Series #4,Group Stage,CCT Europe / Series #4 / Group Stage
+1508715,2026-06-09,2026-06-09T17:01:00Z,2026-06-09T19:35:56Z,BIG,B8,3249,129381,1,2,B8,129381,finished,best_of,3,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1519613,2026-06-08,2026-06-08T11:15:03Z,2026-06-08T13:37:43Z,brazylijski luz,ex-Zero Tenacity,132679,137703,2,1,brazylijski luz,132679,finished,best_of,3,CCT Europe,Closed Qualifier: Series #4,Play-In,CCT Europe / Closed Qualifier: Series #4 / Play-In
+1508707,2026-06-08,2026-06-08T12:01:42Z,2026-06-08T13:44:30Z,Astralis,paiN,3209,125751,0,2,paiN,125751,finished,best_of,3,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1517511,2026-06-08,2026-06-08T17:49:09Z,2026-06-08T20:28:10Z,Acend,ex-RUBY,137546,137932,1,2,ex-RUBY,137932,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1519612,2026-06-08,2026-06-08T08:05:28Z,2026-06-08T10:00:14Z,Leo Team,HyperSpirit,133269,133988,2,0,Leo Team,133269,finished,best_of,3,CCT Europe,Closed Qualifier: Series #4,Play-In,CCT Europe / Closed Qualifier: Series #4 / Play-In
+1528514,2026-06-08,2026-06-08T08:46:30Z,2026-06-08T10:01:52Z,Abyssal,MGLBROS,138092,138511,2,0,Abyssal,138092,finished,best_of,3,Dfrag,Open Series #5,Group A,Dfrag / Open Series #5 / Group A
+1517508,2026-06-08,2026-06-08T08:04:00Z,2026-06-08T10:06:17Z,KOLESIE,ASTRAL,137112,137440,2,0,KOLESIE,137112,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1504750,2026-06-08,2026-06-08T08:08:05Z,2026-06-08T10:11:09Z,PsychoFace,brazylijski luz,138537,132679,0,2,brazylijski luz,132679,finished,best_of,3,European Pro League,Series 7,Group A,European Pro League / Series 7 / Group A
+1528515,2026-06-08,2026-06-08T08:46:16Z,2026-06-08T10:17:52Z,Rooster,MARKandLARRY,127114,127125,2,0,Rooster,127114,finished,best_of,3,Dfrag,Open Series #5,Group A,Dfrag / Open Series #5 / Group A
+1527900,2026-06-08,2026-06-08T08:04:05Z,2026-06-08T10:45:38Z,Clutchain,INFURITY Gaming,138496,132795,2,1,Clutchain,138496,finished,best_of,3,United21,—,Playoffs,United21 / Playoffs
+1517509,2026-06-08,2026-06-08T11:02:20Z,2026-06-08T12:40:19Z,Nuclear TigeRES,CYBERSHOKE Esports,135673,133542,2,0,Nuclear TigeRES,135673,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1527901,2026-06-08,2026-06-08T11:20:52Z,2026-06-08T12:51:53Z,ex-MANA eSports,STEP,138777,138778,0,2,STEP,138778,finished,best_of,3,United21,—,Playoffs,United21 / Playoffs
+1526452,2026-06-08,2026-06-08T17:40:09Z,2026-06-08T20:34:23Z,Donstu Esports,Banger Gang,135981,134037,2,1,Donstu Esports,135981,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1519615,2026-06-08,2026-06-08T17:17:34Z,2026-06-08T20:34:11Z,HEROIC Academy,NEW VISION,136815,138650,2,0,HEROIC Academy,136815,finished,best_of,3,CCT Europe,Closed Qualifier: Series #4,Play-In,CCT Europe / Closed Qualifier: Series #4 / Play-In
+1504751,2026-06-08,2026-06-08T10:30:55Z,2026-06-08T12:16:49Z,HyperSpirit,INOX Division,133988,138617,0,2,INOX Division,138617,finished,best_of,3,European Pro League,Series 7,Group A,European Pro League / Series 7 / Group A
+1520722,2026-06-08,2026-06-08T18:00:45Z,2026-06-08T20:12:32Z,MASONIC,AaB Bulls,127911,138577,2,1,MASONIC,127911,finished,best_of,3,Dust2.dk Ligaen,—,Group Stage,Dust2.dk Ligaen / Group Stage
+1517510,2026-06-08,2026-06-08T14:05:34Z,2026-06-08T17:18:54Z,Ursa,RUSTEC,136900,134815,1,2,RUSTEC,134815,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1526449,2026-06-08,2026-06-08T17:43:06Z,2026-06-08T20:02:57Z,Misa Esports,eternal premium,137075,135978,0,2,eternal premium,135978,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1519614,2026-06-08,2026-06-08T14:05:26Z,2026-06-08T15:49:12Z,The Last Resort,GenOne,130590,128519,0,2,GenOne,128519,finished,best_of,3,CCT Europe,Closed Qualifier: Series #4,Play-In,CCT Europe / Closed Qualifier: Series #4 / Play-In
+1508710,2026-06-08,2026-06-08T15:03:56Z,2026-06-08T16:58:30Z,TYLOO,9z,3248,126709,0,2,9z,126709,finished,best_of,3,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1508709,2026-06-08,2026-06-08T14:30:55Z,2026-06-08T17:08:52Z,Monte,BetBoom Team,131441,133458,1,2,BetBoom Team,133458,finished,best_of,3,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1508708,2026-06-08,2026-06-08T12:02:12Z,2026-06-08T14:44:26Z,MIBR,B8,3250,129381,1,2,B8,129381,finished,best_of,3,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1508711,2026-06-08,2026-06-08T17:29:43Z,2026-06-08T19:05:36Z,G2,BIG,3210,3249,2,0,G2,3210,finished,best_of,3,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1526451,2026-06-08,2026-06-08T17:44:47Z,2026-06-08T19:18:14Z,ROUNDS,OLDBOYS PL,132459,137474,0,2,OLDBOYS PL,137474,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1526450,2026-06-08,2026-06-08T17:33:17Z,2026-06-08T19:41:15Z,XI Esport,Clutchain,131591,138496,2,1,XI Esport,131591,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1508712,2026-06-08,2026-06-08T17:18:56Z,2026-06-08T19:42:43Z,M80,Legacy,133435,133708,0,2,Legacy,133708,finished,best_of,3,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1517506,2026-06-07,2026-06-07T14:02:19Z,2026-06-07T15:33:37Z,ARCRED,Walczaki,130360,138610,0,2,Walczaki,138610,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1527899,2026-06-07,2026-06-07T08:11:17Z,2026-06-07T10:26:30Z,UNiTY esports,NAVI Junior,133063,126491,2,1,UNiTY esports,133063,finished,best_of,3,United21,—,Playoffs,United21 / Playoffs
+1517504,2026-06-07,2026-06-07T08:02:05Z,2026-06-07T10:35:56Z,SPARTA,AM Gaming,136659,136817,1,2,AM Gaming,136817,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1504763,2026-06-07,2026-06-07T08:04:35Z,2026-06-07T10:36:52Z,KOLESIE,Lazer Cats,137112,132426,2,1,KOLESIE,137112,finished,best_of,3,European Pro League,Series 7,Group D,European Pro League / Series 7 / Group D
+1519880,2026-06-07,2026-06-07T08:06:24Z,2026-06-07T10:46:16Z,ENCE,brazylijski luz,3251,132679,1,2,brazylijski luz,132679,finished,best_of,3,CCT Europe,Closed Qualifier: Series #4,Group A,CCT Europe / Closed Qualifier: Series #4 / Group A
+1527898,2026-06-07,2026-06-07T10:45:33Z,2026-06-07T12:15:42Z,Xept,WRAITH PCIFIC,138689,138660,0,2,WRAITH PCIFIC,138660,finished,best_of,3,United21,—,Playoffs,United21 / Playoffs
+1508682,2026-06-07,2026-06-07T12:30:54Z,2026-06-07T13:08:36Z,Astralis,TYLOO,3209,3248,0,1,TYLOO,3248,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1508681,2026-06-07,2026-06-07T12:31:13Z,2026-06-07T14:06:20Z,Monte,Legacy,131441,133708,1,0,Monte,131441,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1508684,2026-06-07,2026-06-07T13:31:16Z,2026-06-07T14:21:39Z,MIBR,BIG,3250,3249,0,1,BIG,3249,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1527613,2026-06-07,2026-06-07T12:44:06Z,2026-06-07T14:22:02Z,Clutchain,The Last Resort,138496,130590,2,0,Clutchain,138496,finished,best_of,3,Exort Series,—,Playoffs,Exort Series / Playoffs
+1504764,2026-06-07,2026-06-07T11:03:34Z,2026-06-07T14:41:32Z,Virtus.pro,GenOne,3288,128519,2,1,Virtus.pro,3288,finished,best_of,3,European Pro League,Series 7,Group D,European Pro League / Series 7 / Group D
+1508683,2026-06-07,2026-06-07T14:27:08Z,2026-06-07T15:02:26Z,BetBoom Team,M80,133458,133435,1,0,BetBoom Team,133458,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1527905,2026-06-07,2026-06-07T17:49:19Z,2026-06-07T19:29:27Z,Bushido Wildcats,VENOM ESPOR,136934,138773,0,2,VENOM ESPOR,138773,finished,best_of,3,TESFED League,—,Playoffs,TESFED League / Playoffs
+1519688,2026-06-07,2026-06-07T14:05:45Z,2026-06-07T16:25:23Z,Lilmix,NEW VISION,126417,138650,0,2,NEW VISION,138650,finished,best_of,3,CCT Europe,Closed Qualifier: Series #4,Group C,CCT Europe / Closed Qualifier: Series #4 / Group C
+1508686,2026-06-07,2026-06-07T14:41:51Z,2026-06-07T16:35:47Z,FlyQuest,paiN,134746,125751,0,2,paiN,125751,finished,best_of,3,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1527902,2026-06-07,2026-06-07T16:09:31Z,2026-06-07T17:32:00Z,Misa Esports,FULLPOWER,137075,138772,2,0,Misa Esports,137075,finished,best_of,3,TESFED League,—,Playoffs,TESFED League / Playoffs
+1508688,2026-06-07,2026-06-07T17:01:14Z,2026-06-07T18:23:24Z,Spirit,9z,124523,126709,2,0,Spirit,124523,finished,best_of,3,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1508685,2026-06-07,2026-06-07T15:22:10Z,2026-06-07T18:28:39Z,B8,GamerLegion,129381,125847,2,1,B8,129381,finished,best_of,3,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1527614,2026-06-07,2026-06-07T17:12:33Z,2026-06-07T18:44:46Z,SHISHKA,Lavked,138670,138370,0,2,Lavked,138370,finished,best_of,3,Exort Series,—,Playoffs,Exort Series / Playoffs
+1517507,2026-06-07,2026-06-07T17:04:00Z,2026-06-07T19:16:32Z,TDK,INOX Division,137948,138617,2,0,TDK,137948,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1519671,2026-06-07,2026-06-07T17:05:10Z,2026-06-07T20:04:44Z,GenOne,BIG Academy,128519,126694,2,1,GenOne,128519,finished,best_of,3,CCT Europe,Closed Qualifier: Series #4,Group D,CCT Europe / Closed Qualifier: Series #4 / Group D
+1508687,2026-06-07,2026-06-07T18:52:47Z,2026-06-07T21:39:45Z,G2,FUT Esports,3210,136955,1,2,FUT Esports,136955,finished,best_of,3,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1527615,2026-06-07,2026-06-07T19:41:50Z,2026-06-07T22:14:06Z,Clutchain,Lavked,138496,138370,1,2,Lavked,138370,finished,best_of,3,Exort Series,—,Playoffs,Exort Series / Playoffs
+1517503,2026-06-06,2026-06-06T17:05:30Z,2026-06-06T18:30:40Z,Nuclear TigeRES,AM Gaming,135673,136817,2,0,Nuclear TigeRES,135673,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1508679,2026-06-06,2026-06-06T18:31:57Z,2026-06-06T19:20:32Z,BetBoom Team,GamerLegion,133458,125847,1,0,BetBoom Team,133458,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1526443,2026-06-06,2026-06-06T16:16:32Z,2026-06-06T18:49:21Z,VENOM ESPOR,Amsterdam Türkgücü,138773,138775,2,1,VENOM ESPOR,138773,finished,best_of,3,TESFED League,—,Play-In,TESFED League / Play-In
+1504747,2026-06-06,2026-06-06T16:05:19Z,2026-06-06T18:54:37Z,Johnny Speeds,100 Thieves,134188,126452,1,2,100 Thieves,126452,finished,best_of,3,CCT Europe,Series #3,Playoffs,CCT Europe / Series #3 / Playoffs
+1508676,2026-06-06,2026-06-06T18:11:50Z,2026-06-06T18:55:51Z,Legacy,FlyQuest,133708,134746,1,0,Legacy,133708,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1508674,2026-06-06,2026-06-06T15:56:30Z,2026-06-06T16:34:27Z,Astralis,9z,3209,126709,0,1,9z,126709,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1519663,2026-06-06,2026-06-06T17:04:40Z,2026-06-06T19:51:33Z,ex-Zero Tenacity,BIG Academy,137703,126694,2,1,ex-Zero Tenacity,137703,finished,best_of,3,CCT Europe,Closed Qualifier: Series #4,Group D,CCT Europe / Closed Qualifier: Series #4 / Group D
+1527612,2026-06-06,2026-06-06T18:38:06Z,2026-06-06T19:52:55Z,Lavked,Endless Journey,138370,137028,2,0,Lavked,138370,finished,best_of,3,Exort Series,—,Playoffs,Exort Series / Playoffs
+1508677,2026-06-06,2026-06-06T19:16:04Z,2026-06-06T20:06:44Z,B8,M80,129381,133435,0,1,M80,133435,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1508680,2026-06-06,2026-06-06T19:40:57Z,2026-06-06T20:10:09Z,Spirit,MIBR,124523,3250,1,0,Spirit,124523,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1508678,2026-06-06,2026-06-06T17:00:25Z,2026-06-06T17:51:24Z,paiN,BIG,125751,3249,0,1,BIG,3249,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1508675,2026-06-06,2026-06-06T16:43:24Z,2026-06-06T18:12:02Z,G2,Monte,3210,131441,1,0,G2,3210,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1504758,2026-06-06,2026-06-06T08:03:14Z,2026-06-06T09:29:14Z,G2 Ares,against All authority,135321,137790,2,0,G2 Ares,135321,finished,best_of,3,European Pro League,Series 7,Group C,European Pro League / Series 7 / Group C
+1517500,2026-06-06,2026-06-06T08:06:03Z,2026-06-06T11:07:18Z,Betclic Apogee Esports,INOX Division,135381,138617,1,2,INOX Division,138617,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1527611,2026-06-06,2026-06-06T09:30:00Z,2026-06-06T13:00:00Z,Donstu Esports,The Last Resort,135981,130590,1,2,The Last Resort,130590,finished,best_of,3,Exort Series,—,Playoffs,Exort Series / Playoffs
+1508648,2026-06-06,2026-06-06T10:30:56Z,2026-06-06T11:04:00Z,Astralis,GamerLegion,3209,125847,1,0,Astralis,3209,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1527045,2026-06-06,2026-06-06T10:13:55Z,2026-06-06T11:16:54Z,Clutchain,INFURITY Gaming,138496,132795,2,0,Clutchain,138496,finished,best_of,3,Exort Series,—,Playoffs,Exort Series / Playoffs
+1508664,2026-06-06,2026-06-06T10:31:15Z,2026-06-06T11:19:10Z,9z,FlyQuest,126709,134746,1,0,9z,126709,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1504759,2026-06-06,2026-06-06T10:40:33Z,2026-06-06T11:58:43Z,RUSTEC,Young Ninjas,134815,128327,0,2,Young Ninjas,128327,finished,best_of,3,European Pro League,Series 7,Group C,European Pro League / Series 7 / Group C
+1504746,2026-06-06,2026-06-06T10:07:18Z,2026-06-06T12:07:08Z,Johnny Speeds,1WIN,134188,126944,2,0,Johnny Speeds,134188,finished,best_of,3,CCT Europe,Series #3,Playoffs,CCT Europe / Series #3 / Playoffs
+1508673,2026-06-06,2026-06-06T15:30:58Z,2026-06-06T16:22:27Z,FUT Esports,TYLOO,136955,3248,1,0,FUT Esports,136955,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1508671,2026-06-06,2026-06-06T11:40:30Z,2026-06-06T12:27:30Z,paiN,TYLOO,125751,3248,0,1,TYLOO,3248,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1519649,2026-06-06,2026-06-06T11:07:11Z,2026-06-06T12:56:24Z,against All authority,GenOne,137790,128519,0,2,GenOne,128519,finished,best_of,3,CCT Europe,Closed Qualifier: Series #4,Group D,CCT Europe / Closed Qualifier: Series #4 / Group D
+1508650,2026-06-06,2026-06-06T11:32:29Z,2026-06-06T12:22:39Z,FUT Esports,B8,136955,129381,1,0,FUT Esports,136955,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1508649,2026-06-06,2026-06-06T12:43:25Z,2026-06-06T13:30:47Z,G2,M80,3210,133435,1,0,G2,3210,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1512481,2026-06-06,2026-06-06T10:39:11Z,2026-06-06T13:48:25Z,CHAOS,WRAITH PCIFIC,138701,138660,1,2,WRAITH PCIFIC,138660,finished,best_of,3,United21,—,Group D,United21 / Group D
+1517501,2026-06-06,2026-06-06T11:26:11Z,2026-06-06T13:56:02Z,ARCRED,ASTRAL,130360,137440,2,1,ARCRED,130360,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1508647,2026-06-06,2026-06-06T13:52:03Z,2026-06-06T14:32:45Z,Spirit,BetBoom Team,124523,133458,1,0,Spirit,124523,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1504745,2026-06-06,2026-06-06T13:05:27Z,2026-06-06T14:40:57Z,ex-RUBY,100 Thieves,137932,126452,0,2,100 Thieves,126452,finished,best_of,3,CCT Europe,Series #3,Playoffs,CCT Europe / Series #3 / Playoffs
+1508651,2026-06-06,2026-06-06T13:58:46Z,2026-06-06T14:47:30Z,Legacy,MIBR,133708,3250,0,1,MIBR,3250,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1517502,2026-06-06,2026-06-06T14:09:49Z,2026-06-06T15:44:38Z,TDK,Walczaki,137948,138610,2,0,TDK,137948,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1508672,2026-06-06,2026-06-06T12:48:51Z,2026-06-06T13:37:35Z,Monte,BIG,131441,3249,1,0,Monte,131441,finished,best_of,1,IEM,Cologne Major,Stage 2,IEM / Cologne Major / Stage 2
+1519691,2026-06-06,2026-06-06T14:01:04Z,2026-06-06T15:51:25Z,NEW VISION,Leo Team,138650,133269,0,2,Leo Team,133269,finished,best_of,3,CCT Europe,Closed Qualifier: Series #4,Group C,CCT Europe / Closed Qualifier: Series #4 / Group C
+1523325,2026-06-05,2026-06-05T17:23:18Z,2026-06-05T19:06:27Z,QUAZAR,ReThink,130570,137967,2,0,QUAZAR,130570,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1523327,2026-06-05,2026-06-05T17:44:16Z,2026-06-05T19:21:36Z,Misa Esports,JUMBO TEAM,137075,137356,2,0,Misa Esports,137075,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1523333,2026-06-05,2026-06-05T17:44:35Z,2026-06-05T19:09:03Z,Donstu Esports,TEAM_COPH9K,135981,138561,2,0,Donstu Esports,135981,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1519636,2026-06-05,2026-06-05T14:07:42Z,2026-06-05T17:36:54Z,against All authority,ex-Zero Tenacity,137790,137703,0,2,ex-Zero Tenacity,137703,finished,best_of,3,CCT Europe,Closed Qualifier: Series #4,Group D,CCT Europe / Closed Qualifier: Series #4 / Group D
+1504742,2026-06-05,2026-06-05T17:02:51Z,2026-06-05T18:42:34Z,Phantom,100 Thieves,136560,126452,0,2,100 Thieves,126452,finished,best_of,3,CCT Europe,Series #3,Playoffs,CCT Europe / Series #3 / Playoffs
+1526442,2026-06-05,2026-06-05T15:02:21Z,2026-06-05T18:22:30Z,Banger Gang,FULLPOWER,134037,138772,1,2,FULLPOWER,138772,finished,best_of,3,TESFED League,—,Play-In,TESFED League / Play-In
+1526098,2026-06-05,2026-06-05T15:42:49Z,2026-06-05T18:04:55Z,Partizan Esport,INFURITY Gaming,131561,132795,1,2,INFURITY Gaming,132795,finished,best_of,3,Exort Series,—,Playoffs,Exort Series / Playoffs
+1523329,2026-06-05,2026-06-05T17:44:33Z,2026-06-05T19:22:19Z,LFO,XI Esport,137943,131591,0,2,XI Esport,131591,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1517499,2026-06-05,2026-06-05T17:08:39Z,2026-06-05T20:44:09Z,ex-RUBY,RUSTEC,137932,134815,2,1,ex-RUBY,137932,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1519637,2026-06-05,2026-06-05T18:01:58Z,2026-06-05T19:32:37Z,GenOne,BIG Academy,128519,126694,0,2,BIG Academy,126694,finished,best_of,3,CCT Europe,Closed Qualifier: Series #4,Group D,CCT Europe / Closed Qualifier: Series #4 / Group D
+1508646,2026-06-05,2026-06-05T17:05:45Z,2026-06-05T20:11:13Z,NRG,BIG,3256,3249,1,2,BIG,3249,finished,best_of,3,IEM,Cologne Major,Stage 1,IEM / Cologne Major / Stage 1
+1523326,2026-06-05,2026-06-05T17:45:52Z,2026-06-05T20:15:41Z,eternal premium,Project 91,135978,138478,2,1,eternal premium,135978,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1523324,2026-06-05,2026-06-05T17:52:42Z,2026-06-05T20:17:49Z,Fire Flux Esports,Arch,135474,138465,2,1,Fire Flux Esports,135474,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1523328,2026-06-05,2026-06-05T17:44:33Z,2026-06-05T20:23:13Z,VP.Prodigy,Clutchain,127899,138496,1,2,Clutchain,138496,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1526099,2026-06-05,2026-06-05T18:52:33Z,2026-06-05T20:28:05Z,Diamant Esports,The Last Resort,135913,130590,0,2,The Last Resort,130590,finished,best_of,3,Exort Series,—,Playoffs,Exort Series / Playoffs
+1523332,2026-06-05,2026-06-05T17:59:56Z,2026-06-05T20:29:42Z,Banger Gang,ZOTIX,134037,133991,2,1,Banger Gang,134037,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1508645,2026-06-05,2026-06-05T14:31:00Z,2026-06-05T16:04:46Z,Liquid,FlyQuest,3213,134746,0,2,FlyQuest,134746,finished,best_of,3,IEM,Cologne Major,Stage 1,IEM / Cologne Major / Stage 1
+1523330,2026-06-05,2026-06-05T15:40:26Z,2026-06-05T17:10:38Z,ROUNDS,ENRAGE,132459,126515,2,0,ROUNDS,132459,finished,best_of,3,ESEA,Advanced Europe,Playoffs,ESEA / Advanced Europe / Playoffs
+1504753,2026-06-05,2026-06-05T08:10:32Z,2026-06-05T11:52:50Z,Lavked,MANA eSports,138370,137080,2,1,Lavked,138370,finished,best_of,3,European Pro League,Series 7,Group B,European Pro League / Series 7 / Group B
+1517498,2026-06-05,2026-06-05T14:05:58Z,2026-06-05T15:57:11Z,SPARTA,CYBERSHOKE Esports,136659,133542,0,2,CYBERSHOKE Esports,133542,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1519855,2026-06-05,2026-06-05T11:08:53Z,2026-06-05T12:25:18Z,Leo Team,Lilmix,133269,126417,2,0,Leo Team,133269,finished,best_of,3,CCT Europe,Closed Qualifier: Series #4,Group C,CCT Europe / Closed Qualifier: Series #4 / Group C
+1520673,2026-06-05,2026-06-04T21:59:36Z,2026-06-05T01:05:24Z,RED Canids Academy,paiN Academy,135505,131849,2,1,RED Canids Academy,135505,finished,best_of,3,Gamers Club Liga Série A,—,Playoffs,Gamers Club Liga Série A / Playoffs
+1512466,2026-06-05,2026-06-05T08:10:19Z,2026-06-05T09:28:08Z,Passion Academy,STEP,138281,138778,0,2,STEP,138778,finished,best_of,3,United21,—,Group A,United21 / Group A
+1517496,2026-06-05,2026-06-05T08:05:09Z,2026-06-05T09:30:35Z,KOLESIE,Atreides,137112,138026,0,2,Atreides,138026,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1504743,2026-06-05,2026-06-05T08:04:00Z,2026-06-05T09:42:18Z,ex-Zero Tenacity,Johnny Speeds,137703,134188,0,2,Johnny Speeds,134188,finished,best_of,3,CCT Europe,Series #3,Playoffs,CCT Europe / Series #3 / Playoffs
+1504741,2026-06-05,2026-06-05T14:05:57Z,2026-06-05T15:46:11Z,Bushido Wildcats,ex-RUBY,136934,137932,0,2,ex-RUBY,137932,finished,best_of,3,CCT Europe,Series #3,Playoffs,CCT Europe / Series #3 / Playoffs
+1512471,2026-06-05,2026-06-05T10:38:22Z,2026-06-05T12:03:37Z,LPH Gaming,INFURITY Gaming,136786,132795,0,2,INFURITY Gaming,132795,finished,best_of,3,United21,—,Group B,United21 / Group B
+1526097,2026-06-05,2026-06-05T09:30:00Z,2026-06-05T12:45:00Z,Endless Journey,eSuba,137028,127497,2,1,Endless Journey,137028,finished,best_of,3,Exort Series,—,Playoffs,Exort Series / Playoffs
+1504744,2026-06-05,2026-06-05T11:08:18Z,2026-06-05T12:53:47Z,1WIN,Betclic Apogee Esports,126944,135381,2,0,1WIN,126944,finished,best_of,3,CCT Europe,Series #3,Playoffs,CCT Europe / Series #3 / Playoffs
+1517497,2026-06-05,2026-06-05T11:15:36Z,2026-06-05T13:18:15Z,Acend,Ursa,137546,136900,2,0,Acend,137546,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1508644,2026-06-05,2026-06-05T12:02:05Z,2026-06-05T13:50:05Z,TYLOO,Lynn Vision,3248,126439,2,0,TYLOO,3248,finished,best_of,3,IEM,Cologne Major,Stage 1,IEM / Cologne Major / Stage 1
+1504754,2026-06-05,2026-06-05T12:24:11Z,2026-06-05T14:26:30Z,Oxuji Esports,Misa Esports,133994,137075,0,2,Misa Esports,137075,finished,best_of,3,European Pro League,Series 7,Group B,European Pro League / Series 7 / Group B
+1525328,2026-06-05,2026-06-05T12:54:17Z,2026-06-05T14:41:19Z,SHISHKA,Basement Bobs,138670,138288,2,0,SHISHKA,138670,finished,best_of,3,Exort Series,—,Playoffs,Exort Series / Playoffs
+1520675,2026-06-05,2026-06-05T19:12:30Z,2026-06-05T22:27:42Z,largadosypelados,RED Canids Academy,131848,135505,1,2,RED Canids Academy,135505,finished,best_of,3,Gamers Club Liga Série A,—,Playoffs,Gamers Club Liga Série A / Playoffs
+1520674,2026-06-04,2026-06-04T19:07:39Z,2026-06-04T21:39:11Z,MIBR Academy,largadosypelados,129800,131848,1,2,largadosypelados,131848,finished,best_of,3,Gamers Club Liga Série A,—,Playoffs,Gamers Club Liga Série A / Playoffs
+1524543,2026-06-04,2026-06-04T18:50:03Z,2026-06-04T21:22:17Z,The Last Resort,CSGOPOSITIVE,130590,138477,2,1,The Last Resort,130590,finished,best_of,3,Exort Series,—,Main Stage,Exort Series / Main Stage
+1517495,2026-06-04,2026-06-04T17:18:16Z,2026-06-04T20:41:33Z,Walczaki,KOLESIE,138610,137112,2,1,Walczaki,138610,finished,best_of,3,NODWIN Clutch Series,—,Group Stage,NODWIN Clutch Series / Group Stage
+1520720,2026-06-04,2026-06-04T18:05:16Z,2026-06-04T19:49:41Z,MASQ,Team Eclipse,138578,138488,2,0,MASQ,138578,finished,best_of,3,Dust2.dk Ligaen,—,Group Stage,Dust2.dk Ligaen / Group Stage
+1487713,2026-05-12,2026-05-12T15:30:00Z,,ENJOY,EC BANGA,135227,129922,2,0,ENJOY,135227,finished,best_of,3,CCT Europe,Contenders #5,Playoffs,CCT Europe / Contenders #5 / Playoffs
+1487710,2026-05-11,2026-05-11T15:30:00Z,,Clair Obscur,yngods,138611,137360,2,0,Clair Obscur,138611,finished,best_of,3,CCT Europe,Contenders #5,Playoffs,CCT Europe / Contenders #5 / Playoffs
+1487711,2026-05-11,,,Misa Esports,zajezdzacze,137075,138089,2,0,Misa Esports,137075,finished,best_of,3,CCT Europe,Contenders #5,Playoffs,CCT Europe / Contenders #5 / Playoffs
+1424614,2026-03-30,2026-03-30T11:30:00Z,,Lynn Vision,Change The Game,126439,135164,2,0,Lynn Vision,126439,finished,best_of,3,Yuqilin,Pinnacle of Battle,Group A,Yuqilin / Pinnacle of Battle / Group A
+1424613,2026-03-30,2026-03-30T08:30:00Z,,Change The Game,Last Bullet,135164,137353,2,0,Change The Game,135164,finished,best_of,3,Yuqilin,Pinnacle of Battle,Group A,Yuqilin / Pinnacle of Battle / Group A
+1424612,2026-03-30,,,Lynn Vision,Chaos Gaming,126439,138241,2,0,Lynn Vision,126439,finished,best_of,3,Yuqilin,Pinnacle of Battle,Group A,Yuqilin / Pinnacle of Battle / Group A
+1414600,2026-03-25,2026-03-25T19:15:00Z,,ReThink,eLITenergy,137967,137660,0,2,eLITenergy,137660,finished,best_of,3,CCT Europe,Contenders #3,Playoffs,CCT Europe / Contenders #3 / Playoffs
+1413279,2026-03-22,2026-03-22T22:00:00Z,,Isurus,METANOIA WOLVES,125863,138086,2,0,Isurus,125863,finished,best_of,3,PGL,Astana: South American Open Qualifier #1,Playoffs,PGL / Astana: South American Open Qualifier #1 / Playoffs
+1413278,2026-03-22,2026-03-22T22:00:00Z,,Crashers,Keyd,137141,3225,0,2,Keyd,3225,finished,best_of,3,PGL,Astana: South American Open Qualifier #1,Playoffs,PGL / Astana: South American Open Qualifier #1 / Playoffs
+1402024,2026-03-15,,,FOLHA AMARELA,Players,137486,131161,0,1,Players,131161,finished,best_of,1,Gamers Club Liga Série A,—,Group C,Gamers Club Liga Série A / Group C
+1373780,2026-02-24,,, Fingers Crossed Female,BASEMENT BOYS,137543,136516,2,0, Fingers Crossed Female,137543,finished,best_of,3,Exort Meteor,—,Group Stage,Exort Meteor / Group Stage
+1373779,2026-02-24,2026-02-24T09:00:00Z,,Ursa,MANA eSports,136900,137080,2,0,Ursa,136900,finished,best_of,3,Exort Meteor,—,Group Stage,Exort Meteor / Group Stage
+1341300,2026-01-26,2026-01-26T21:00:00Z,,Procyon Gaming,FOLHA AMARELA,128378,137486,0,1,FOLHA AMARELA,137486,finished,best_of,1,Gamers Club Liga Série A,—,Group B,Gamers Club Liga Série A / Group B
+1340777,2026-01-26,,,ODDIK Academy,Players,134542,131161,0,1,Players,131161,finished,best_of,1,Gamers Club Liga Série A,—,Group C,Gamers Club Liga Série A / Group C
+1341301,2026-01-25,,,Procyon Gaming,Charrados FC,128378,137542,0,1,Charrados FC,137542,finished,best_of,1,Gamers Club Liga Série A,—,Group B,Gamers Club Liga Série A / Group B
+1340779,2026-01-23,,,Four Magic,ODDIK Academy,137551,134542,1,0,Four Magic,137551,finished,best_of,1,Gamers Club Liga Série A,—,Group C,Gamers Club Liga Série A / Group C
+1280278,2025-12-12,2025-12-12T07:15:00Z,,Beyman Esports,WOLFGANG,137713,137712,2,1,Beyman Esports,137713,finished,best_of,3,Odyssey Cup,Asia,Playoffs,Odyssey Cup / Asia / Playoffs
+1276510,2025-12-08,,,Crashers,Guara Esports,137141,137966,0,1,Guara Esports,137966,finished,best_of,1,Gamers Club Liga Série A,—,Group D,Gamers Club Liga Série A / Group D
+1278356,2025-12-08,2025-12-08T23:00:00Z,,Players,lospegadinhas,131161,137592,1,0,Players,131161,finished,best_of,1,Gamers Club Liga Série A,—,Group B,Gamers Club Liga Série A / Group B
+1275202,2025-12-03,2025-12-03T17:00:00Z,,KUUSAMO.gg VASAT,JANO Esports,137684,131549,0,2,JANO Esports,131549,finished,best_of,3,NUKE-Liiga,—,Playoffs,NUKE-Liiga / Playoffs
+1275201,2025-12-02,2025-12-02T16:00:00Z,,ENCE Prospects,Heimo Ateljé,135026,137682,2,1,ENCE Prospects,135026,finished,best_of,3,NUKE-Liiga,—,Playoffs,NUKE-Liiga / Playoffs
+1267654,2025-11-12,2025-11-12T10:52:58Z,,Metizport,megoshort,129440,128629,1,0,Metizport,129440,finished,best_of,1,Svenska Cupen,—,Group A,Svenska Cupen / Group A
+1265408,2025-11-04,2025-11-04T15:00:00Z,,Bushido Wildcats,gofastwin,136934,137552,2,0,Bushido Wildcats,136934,finished,best_of,3,Monsters Reloaded,—,Playoffs,Monsters Reloaded / Playoffs
+1265407,2025-11-04,2025-11-04T15:00:00Z,,FUT Turkuaz,UNGEPICKT,137202,137553,2,0,FUT Turkuaz,137202,finished,best_of,3,Monsters Reloaded,—,Playoffs,Monsters Reloaded / Playoffs
+1265406,2025-11-04,2025-11-04T15:00:00Z,,GANK Esports,Sissi State Punks,137443,127933,2,1,GANK Esports,137443,finished,best_of,3,Monsters Reloaded,—,Playoffs,Monsters Reloaded / Playoffs
+1265404,2025-11-04,2025-11-04T16:30:00Z,,Misa Esports,Washington,137075,137476,2,0,Misa Esports,137075,finished,best_of,3,Monsters Reloaded,—,Playoffs,Monsters Reloaded / Playoffs
+1260554,2025-10-16,,,Players,Yawara Esports,131161,131538,2,0,Players,131161,finished,best_of,3,Gamers Club Liga Série A,October,Group C,Gamers Club Liga Série A / October / Group C
+1260552,2025-10-15,,,Game Hunters,ODDIK Academy,135580,134542,0,2,ODDIK Academy,134542,finished,best_of,3,Gamers Club Liga Série A,October,Group B,Gamers Club Liga Série A / October / Group B
+1253302,2025-10-10,,,Players,AMIGOS,131161,135398,0,1,AMIGOS,135398,finished,best_of,1,Gamers Club Liga Série A,October,Group C,Gamers Club Liga Série A / October / Group C
+1253299,2025-10-10,,,Game Hunters,9z Academy,135580,128373,0,1,9z Academy,128373,finished,best_of,1,Gamers Club Liga Série A,October,Group B,Gamers Club Liga Série A / October / Group B
+1244948,2025-09-26,,,VP.Prodigy,Leo Team,127899,133269,0,2,Leo Team,133269,finished,best_of,3,CCT Europe,European Contenders #1,Playoffs,CCT Europe / European Contenders #1 / Playoffs
+1244946,2025-09-25,,,1WIN,m1x,126944,126232,2,0,1WIN,126944,finished,best_of,3,CCT Europe,European Contenders #1,Playoffs,CCT Europe / European Contenders #1 / Playoffs
+1231523,2025-08-28,2025-08-28T17:00:00Z,,Insilio,Team Storm,130064,137264,2,1,Insilio,130064,finished,best_of,3,ESEA,Europe: Elite Cup #2,Group B,ESEA / Europe: Elite Cup #2 / Group B
+1220901,2025-08-06,,,BIG Academy,Sangal ALTERS,126694,136593,2,0,BIG Academy,126694,finished,best_of,3,United21,—,Group A,United21 / Group A
+1220900,2025-08-06,,,Prestige,Northern Lights,136846,135390,0,2,Northern Lights,135390,finished,best_of,3,United21,—,Group A,United21 / Group A
+1216493,2025-07-27,,,9z,LaChampionsLiga,126709,134970,1,0,9z,126709,finished,best_of,1,Ace South American Masters,South American Open Qualifier,Playoffs,Ace South American Masters / South American Open Qualifier / Playoffs
+1216494,2025-07-27,,,KRÜ Esports,Dusty Roots,134597,133773,0,1,Dusty Roots,133773,finished,best_of,1,Ace South American Masters,South American Open Qualifier,Playoffs,Ace South American Masters / South American Open Qualifier / Playoffs
+1216492,2025-07-27,,,ShindeN,JERSA ESPORTS,135468,137055,1,0,ShindeN,135468,finished,best_of,1,Ace South American Masters,South American Open Qualifier,Playoffs,Ace South American Masters / South American Open Qualifier / Playoffs
+1216491,2025-07-27,2025-07-27T19:45:00Z,,BESTIA,R2 Esports Club,132800,137143,1,0,BESTIA,132800,finished,best_of,1,Ace South American Masters,South American Open Qualifier,Playoffs,Ace South American Masters / South American Open Qualifier / Playoffs
+1149020,2025-03-22,2025-03-22T23:00:00Z,,RED Canids,Elevate,126227,128758,1,0,RED Canids,126227,finished,best_of,1,FiReLEAGUE,Buenos Aires: Brazilian Open Qualifier,Playoffs,FiReLEAGUE / Buenos Aires: Brazilian Open Qualifier / Playoffs
+1149021,2025-03-22,,,2GAME,7REX,133770,136545,1,0,2GAME,133770,finished,best_of,1,FiReLEAGUE,Buenos Aires: Brazilian Open Qualifier,Playoffs,FiReLEAGUE / Buenos Aires: Brazilian Open Qualifier / Playoffs
+1144366,2025-03-14,,,W7M,MAGICOS,125929,136596,2,0,W7M,125929,finished,best_of,3,PGL,Astana: South American Open Qualifier 1,Playoffs,PGL / Astana: South American Open Qualifier 1 / Playoffs
+1125685,2025-02-14,2025-02-14T19:00:00Z,,Yawara Esports,20/70,131538,135551,1,0,Yawara Esports,131538,finished,best_of,1,Gamers Club Liga Série A,—,Group B,Gamers Club Liga Série A / Group B
+1074309,2024-11-14,2024-11-14T19:00:00Z,,Onyx Ravens,ex-ESC Gaming,134826,134692,0,2,ex-ESC Gaming,134692,finished,best_of,3,Urban Contenders,—,Group A,Urban Contenders / Group A
+1074308,2024-11-14,2024-11-14T17:00:00Z,,ex-ESC Gaming,TGD Pro,134692,134919,2,0,ex-ESC Gaming,134692,finished,best_of,3,Urban Contenders,—,Group A,Urban Contenders / Group A
+1074307,2024-11-13,2024-11-13T19:00:00Z,,ins,Onyx Ravens,135688,134826,1,0,ins,135688,finished,best_of,1,Urban Contenders,—,Group A,Urban Contenders / Group A
+1074303,2024-11-13,2024-11-13T18:00:00Z,,TGD Pro,Onyx Ravens,134919,134826,0,1,Onyx Ravens,134826,finished,best_of,1,Urban Contenders,—,Group A,Urban Contenders / Group A
+1074302,2024-11-13,2024-11-13T17:00:00Z,,ins,ex-ESC Gaming,135688,134692,1,0,ins,135688,finished,best_of,1,Urban Contenders,—,Group A,Urban Contenders / Group A
+1069689,2024-11-07,,,América eSports,Floripa Stars Academy,135741,135807,0,2,Floripa Stars Academy,135807,finished,best_of,3,Dust2.br,Division 2,Playoffs,Dust2.br / Division 2 / Playoffs
+1057904,2024-10-21,2024-10-21T17:14:33Z,,HOTU,Madagaskar,130569,135701,0,1,Madagaskar,135701,finished,best_of,1,Winline Pro League,—,Group C,Winline Pro League / Group C
+1060172,2024-10-19,,,Romanos,paiN Academy,135552,131849,0,1,paiN Academy,131849,finished,best_of,1,Gamers Club Liga Série A,—,Group D,Gamers Club Liga Série A / Group D
+1045821,2024-09-24,,,devils.one,Dynamo Eclot,125755,129356,0,1,Dynamo Eclot,129356,finished,best_of,1,T-esports Championship,—,Group Stage,T-esports Championship / Group Stage
+989880,2024-06-10,2024-06-10T17:20:00Z,,paiN Academy,eSports Recife,131849,134945,1,2,eSports Recife,134945,finished,best_of,3,Gamers Club Liga Série A,—,Group A,Gamers Club Liga Série A / Group A
+985317,2024-06-03,,,Corinthians Esports,Intense,131448,133340,2,1,Corinthians Esports,131448,finished,best_of,3,RedZone PRO,—,Playoffs,RedZone PRO / Playoffs
+911888,2024-02-01,,,Team Solid,9z Academy,133067,128373,0,2,9z Academy,128373,finished,best_of,3,RedZone PRO,—,Playoffs,RedZone PRO / Playoffs
+871103,2023-11-10,,,Jake Bube,Partizan Esport,131294,131561,2,1,Jake Bube,131294,finished,best_of,3,A1 Adria,—,Playoffs,A1 Adria / Playoffs
+871100,2023-10-29,,,Zero Tenacity,Jake Bube,129685,131294,2,0,Zero Tenacity,129685,finished,best_of,3,A1 Adria,—,Playoffs,A1 Adria / Playoffs
+871101,2023-10-29,,,Partizan Esport,The Suspect,131561,133866,1,2,The Suspect,133866,finished,best_of,3,A1 Adria,—,Playoffs,A1 Adria / Playoffs
+794044,2023-06-13,,,Team Solid,LRV Esports,133067,131261,0,2,LRV Esports,131261,finished,best_of,3,Gamers Club Liga Série A,—,Group A,Gamers Club Liga Série A / Group A
+794201,2023-06-01,,,AVANGAR,Catchii,3274,133343,0,2,Catchii,133343,finished,best_of,3,ESEA,Main Europe,Playoffs,ESEA / Main Europe / Playoffs
+774559,2023-05-09,,,Team Falcons,K23,130564,127721,0,2,K23,127721,finished,best_of,3,ESL Challenger League,Europe,Playoffs,ESL Challenger League / Europe / Playoffs
+763059,2023-04-17,,,KRC Genk Esports,undefined,129262,132866,2,0,KRC Genk Esports,129262,finished,best_of,3,ESL Benelux Championship,—,Group A,ESL Benelux Championship / Group A
+737989,2023-03-01,,,ZURIA,Team MCE,132358,129347,1,0,ZURIA,132358,finished,best_of,1,ESEA,Advanced Europe,Regular Season,ESEA / Advanced Europe / Regular Season
+737988,2023-03-01,2023-03-01T19:00:00Z,,BREAKTHROUGH,helvete,132790,132593,1,0,BREAKTHROUGH,132790,finished,best_of,1,ESEA,Advanced Europe,Regular Season,ESEA / Advanced Europe / Regular Season
+729047,2023-02-12,2023-02-12T23:00:00Z,,Skottkärra,INFURITY Gaming,132794,132795,0,2,INFURITY Gaming,132795,finished,best_of,3,Telia League,—,Regular Season,Telia League / Regular Season
+692551,2022-12-16,,,Quantiq,The Chosen Few,132407,131552,0,2,The Chosen Few,131552,finished,best_of,3,ESEA,Intermediate Europe,Playoffs,ESEA / Intermediate Europe / Playoffs
+676253,2022-11-20,2022-11-20T16:00:00Z,,flowstate,Lagom,131286,131973,1,0,flowstate,131286,finished,best_of,1,ESEA,Advanced Europe,Regular Season,ESEA / Advanced Europe / Regular Season
+674108,2022-11-16,,,EYEBALLERS,Lagom,131189,131973,1,0,EYEBALLERS,131189,finished,best_of,1,ESEA,Advanced Europe,Regular Season,ESEA / Advanced Europe / Regular Season
+674134,2022-11-16,,,n3wb0rn,THUNDR Esports,132079,131981,0,1,THUNDR Esports,131981,finished,best_of,1,ESEA,Advanced Europe,Regular Season,ESEA / Advanced Europe / Regular Season
+674135,2022-11-16,,,OnlineBOTS,Team Atlantic,131983,130117,0,1,Team Atlantic,130117,finished,best_of,1,ESEA,Advanced Europe,Regular Season,ESEA / Advanced Europe / Regular Season
+674116,2022-11-15,2022-11-15T23:00:00Z,,NASR,LDLC,60205,3230,0,1,LDLC,3230,finished,best_of,1,ESEA,Advanced Europe,Regular Season,ESEA / Advanced Europe / Regular Season
+676284,2022-11-10,,,Goodfellas,glaani,129833,132106,2,0,Goodfellas,129833,finished,best_of,3,Fragleague,—,Group A,Fragleague / Group A
+670897,2022-11-10,,,Take Aim Gaming,Cryptova,131269,128892,0,1,Cryptova,128892,finished,best_of,1,ESEA,Advanced Europe,Regular Season,ESEA / Advanced Europe / Regular Season
+676290,2022-11-07,,,Enhanced Esports Club,Poggerz,128520,132105,2,0,Enhanced Esports Club,128520,finished,best_of,3,Fragleague,—,Group B,Fragleague / Group B
+676288,2022-11-04,,,Lilmix,Poggerz,126417,132105,2,0,Lilmix,126417,finished,best_of,3,Fragleague,—,Group B,Fragleague / Group B
+676286,2022-10-29,,,Kirikou,Poggerz,131610,132105,2,0,Kirikou,131610,finished,best_of,3,Fragleague,—,Group B,Fragleague / Group B
+648814,2022-09-09,,,Entropiq Prague,Hotspurs,128942,131613,1,0,Entropiq Prague,128942,finished,best_of,1,ESEA,Advanced Europe,Regular Season,ESEA / Advanced Europe / Regular Season
+641546,2022-07-08,,,Anonymo,PALOMA,128416,130291,1,0,Anonymo,128416,finished,best_of,1,ESL Challenger,Melbourne: European Open Qualifier #1,Playoffs,ESL Challenger / Melbourne: European Open Qualifier #1 / Playoffs
+638253,2022-06-10,,,UNION88,Apeks,130802,126755,1,0,UNION88,130802,finished,best_of,1,ESEA,Advanced Europe,Regular,ESEA / Advanced Europe / Regular
+637486,2022-06-07,2022-06-07T18:00:00Z,,pe4c3,Apeks Rebels,130799,129382,1,0,pe4c3,130799,finished,best_of,1,ESEA,Advanced Europe,Regular,ESEA / Advanced Europe / Regular
+635652,2022-05-29,,,Los Grandes,UNO MILLE,129915,130605,0,2,UNO MILLE,130605,finished,best_of,3,RedZone PRO,—,Group A,RedZone PRO / Group A
+635647,2022-05-28,2022-05-28T17:45:00Z,,The Union,Los Grandes,129372,129915,2,0,The Union,129372,finished,best_of,3,RedZone PRO,—,Group A,RedZone PRO / Group A
+624592,2022-02-25,2022-02-25T21:15:00Z,,Lausanne-Sport Esports,Arctic,130526,128704,1,0,Lausanne-Sport Esports,130526,finished,best_of,1,ESL Swiss League,—,Group Stage,ESL Swiss League / Group Stage
+624591,2022-02-25,,,Arctic,Lausanne-Sport Esports,128704,130526,0,1,Lausanne-Sport Esports,130526,finished,best_of,1,ESL Swiss League,—,Group Stage,ESL Swiss League / Group Stage
+615113,2021-11-14,,,D13,INDE IRAE,127043,129319,0,2,INDE IRAE,129319,finished,best_of,3,RESF Open Cup,—,Playoffs,RESF Open Cup / Playoffs
+615115,2021-11-13,2021-11-13T09:00:00Z,,iNation,Ha MaSSe,129606,126946,2,0,iNation,129606,finished,best_of,3,RESF Open Cup,—,Playoffs,RESF Open Cup / Playoffs
+615111,2021-11-13,2021-11-13T09:00:00Z,,Free TON,Moralezz,129092,129422,2,1,Free TON,129092,finished,best_of,3,RESF Open Cup,—,Playoffs,RESF Open Cup / Playoffs
+611248,2021-10-29,,,Brute,GLORE,126624,129357,0,2,GLORE,129357,finished,best_of,3,SAZKA eLEAGUE,—,Relegation,SAZKA eLEAGUE / Relegation
+590307,2021-04-16,2021-04-16T10:00:00Z,,NJ,Steel Helmet,128875,128874,1,0,NJ,128875,finished,best_of,1,Perfect World League,Open Qualifier 2,Playoffs,Perfect World League / Open Qualifier 2 / Playoffs
+590313,2021-04-16,,,CN-CQF,Checkmate,127979,127706,0,1,Checkmate,127706,finished,best_of,1,Perfect World League,Open Qualifier 2,Playoffs,Perfect World League / Open Qualifier 2 / Playoffs
+590312,2021-04-16,,,old Z,ZIGMA,128877,126895,0,1,ZIGMA,126895,finished,best_of,1,Perfect World League,Open Qualifier 2,Playoffs,Perfect World League / Open Qualifier 2 / Playoffs
+590311,2021-04-16,2021-04-16T10:00:00Z,,Lynn Vision,TBC,126439,128064,1,0,Lynn Vision,126439,finished,best_of,1,Perfect World League,Open Qualifier 2,Playoffs,Perfect World League / Open Qualifier 2 / Playoffs
+590310,2021-04-16,2021-04-16T10:00:00Z,,HZ,w2c,126806,127326,1,0,HZ,126806,finished,best_of,1,Perfect World League,Open Qualifier 2,Playoffs,Perfect World League / Open Qualifier 2 / Playoffs
+590308,2021-04-16,2021-04-16T10:00:00Z,,CatEvil,After,128871,127863,0,1,After,127863,finished,best_of,1,Perfect World League,Open Qualifier 2,Playoffs,Perfect World League / Open Qualifier 2 / Playoffs
+585829,2021-03-05,,,Reece,SEKINLO,128065,128663,2,0,Reece,128065,finished,best_of,2,Huya DarkHorse League,—,Group Stage,Huya DarkHorse League / Group Stage
+583487,2021-02-19,2021-02-19T19:00:00Z,,Tikitakan,Peak,127590,127975,1,0,Tikitakan,127590,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583574,2021-02-05,,,BLUEJAYS,GROND,127262,128007,1,0,BLUEJAYS,127262,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583573,2021-02-05,,,los kogutos,Movistar KOI,127837,125785,0,1,Movistar KOI,125785,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583575,2021-02-05,,,Sinners,Pompa Team,127014,126514,1,0,Sinners,127014,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583576,2021-02-05,,,Project X,Lilmix,126715,126417,1,0,Project X,126715,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583566,2021-02-04,,,Ex-SPARX ESPORTS,AGF Esports Academy,128598,128395,1,0,Ex-SPARX ESPORTS,128598,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583572,2021-02-04,,,EC Kyiv,SJ,128230,125768,1,0,EC Kyiv,128230,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583571,2021-02-04,,,Sampi,Tricked,127496,125071,0,1,Tricked,125071,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583570,2021-02-04,,,Young Ninjas,ex-Tenerife Titans,128327,128595,0,1,ex-Tenerife Titans,128595,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583569,2021-02-04,,,Saints,NLG,128596,127019,0,1,NLG,127019,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583568,2021-02-04,,,Movistar KOI,Sissi State Punks,125785,127933,1,0,Movistar KOI,125785,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583567,2021-02-04,,,ESIMED,Pompa Team,128048,126514,0,1,Pompa Team,126514,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583565,2021-02-04,,,BLINK,Sinners,127279,127014,1,0,BLINK,127279,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583564,2021-02-04,,,Audacity,SG.pro,128600,126716,0,1,SG.pro,126716,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583559,2021-02-03,,,KOVA,Budapest Five,126318,126698,0,1,Budapest Five,126698,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583563,2021-02-03,,,Sampi,mCon,127496,128563,1,0,Sampi,127496,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583562,2021-02-03,,,ex-Tenerife Titans,NLG,128595,127019,0,1,NLG,127019,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583561,2021-02-03,,,SJ,NOSTALGIA,125768,128280,0,1,NOSTALGIA,128280,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583560,2021-02-03,,,MNA,Touch The Crown,128592,126657,1,0,MNA,128592,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583543,2021-02-01,,,MNA,Ambush,128592,126217,0,1,Ambush,126217,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583542,2021-02-01,,,hREDS,Saints,126317,128596,1,0,hREDS,126317,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583545,2021-02-01,,,ex-AVEZ,Case,128602,128107,1,0,ex-AVEZ,128602,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583544,2021-02-01,,,GROND,Budapest Five,128007,126698,1,0,GROND,128007,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583540,2021-01-31,,,Touch The Crown,Young Ninjas,126657,128327,1,0,Touch The Crown,126657,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583539,2021-01-31,,,PAPERPLANES,Pompa Team,128531,126514,1,0,PAPERPLANES,128531,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583538,2021-01-31,,,NOSTALGIA,Tikitakan,128280,127590,0,1,Tikitakan,127590,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583537,2021-01-29,,,Young Ninjas,Sissi State Punks,128327,127933,1,0,Young Ninjas,128327,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583536,2021-01-29,,,ex-Tenerife Titans,NOSTALGIA,128595,128280,1,0,ex-Tenerife Titans,128595,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583535,2021-01-29,,,IN.GAME,los kogutos,128077,127837,0,1,los kogutos,127837,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583534,2021-01-29,,,Budapest Five,Movistar KOI,126698,125785,1,0,Budapest Five,126698,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583533,2021-01-28,,,mCon,SG.pro,128563,126716,0,1,SG.pro,126716,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583532,2021-01-28,,,SOON,EC Kyiv,128601,128230,0,1,EC Kyiv,128230,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583531,2021-01-28,,,TheDice,Sissi State Punks,126560,127933,1,0,TheDice,126560,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583530,2021-01-28,,,KOVA,MNA,126318,128592,0,1,MNA,128592,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583527,2021-01-28,,,LowLandLions,SJ,3267,125768,1,0,LowLandLions,3267,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583507,2021-01-24,,,Lyngby Vikings,MNA,126880,128592,0,1,MNA,128592,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583489,2021-01-19,,,GROND,SG.pro,128007,126716,1,0,GROND,128007,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583486,2021-01-19,,,mCon,Case,128563,128107,0,1,Case,128107,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+583490,2021-01-19,,,Lilmix,AGF Esports Academy,126417,128395,1,0,Lilmix,126417,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+580955,2021-01-18,,,Vexed,los kogutos,3313,127837,1,0,Vexed,3313,finished,best_of,1,ESEA,Advanced Europe,Regular season,ESEA / Advanced Europe / Regular season
+573082,2020-10-24,2020-10-24T15:15:00Z,,Kombucha,Stabæk Momentum,127944,127947,2,0,Kombucha,127944,finished,best_of,3,Fragleague,—,Group B,Fragleague / Group B
+565486,2020-07-09,2020-07-09T07:00:00Z,,Wisla Krakow,HONORIS,126376,127448,2,0,Wisla Krakow,126376,finished,best_of,3,Nine to Five,—,Swiss Stage,Nine to Five / Swiss Stage
+565590,2020-07-06,2020-07-06T08:00:00Z,,OneThree,HZ,126374,126806,2,0,OneThree,126374,finished,best_of,3,ThunderFire Asia Championship,—,Group Stage,ThunderFire Asia Championship / Group Stage
+563919,2020-06-12,2020-06-12T20:00:00Z,,OFFSET,Queso,126082,127408,1,0,OFFSET,126082,finished,best_of,1,One Tap,—,Stop 1,One Tap / Stop 1
+563918,2020-06-12,2020-06-12T18:45:00Z,,KPI,Real Betis,126622,126623,1,0,KPI,126622,finished,best_of,1,One Tap,—,Stop 1,One Tap / Stop 1
+563447,2020-06-11,2020-06-11T01:00:00Z,,Bravos,RED Canids,126865,126227,0,2,RED Canids,126227,finished,best_of,3,Gamers Club Redragon Challenge,—,Group B,Gamers Club Redragon Challenge / Group B
+563403,2020-06-10,2020-06-10T00:45:00Z,,Asterius,Neverest,126955,126954,2,1,Asterius,126955,finished,best_of,3,Gamers Club Redragon Challenge,—,Group A,Gamers Club Redragon Challenge / Group A
+563415,2020-06-09,2020-06-09T22:00:00Z,,RED Canids,999,126227,127525,2,1,RED Canids,126227,finished,best_of,3,Gamers Club Redragon Challenge,—,Group B,Gamers Club Redragon Challenge / Group B
+563396,2020-06-09,2020-06-09T22:00:00Z,,Neverest,9z,126954,126709,0,2,9z,126709,finished,best_of,3,Gamers Club Redragon Challenge,—,Group A,Gamers Club Redragon Challenge / Group A
+563389,2020-06-09,2020-06-09T22:00:00Z,,W7M,Asterius,125929,126955,2,1,W7M,125929,finished,best_of,3,Gamers Club Redragon Challenge,—,Group A,Gamers Club Redragon Challenge / Group A
+557221,2020-03-17,2020-03-17T19:00:00Z,,Red Instinct,KINGZZZ,126501,127188,1,2,KINGZZZ,127188,finished,best_of,3,ESL Swiss League,—,Group A,ESL Swiss League / Group A
+557222,2020-03-17,2020-03-17T19:00:00Z,,Lionz,Babos,127187,127186,2,1,Lionz,127187,finished,best_of,3,ESL Swiss League,—,Group A,ESL Swiss League / Group A
+550185,2019-10-30,2019-10-30T09:00:00Z,,catman,MC,126337,126372,0,1,MC,126372,finished,best_of,1,ESEA,MDL Australia,Group stage,ESEA / MDL Australia / Group stage
+550036,2019-10-26,2019-10-26T15:00:00Z,,Man of the Year,Wartex International,126421,126426,1,0,Man of the Year,126421,finished,best_of,1,DreamHack Open,—,Swedish Qualifier,DreamHack Open / Swedish Qualifier
+550031,2019-10-26,2019-10-26T15:00:00Z,,9INE,No Expectation,126408,126407,1,0,9INE,126408,finished,best_of,1,DreamHack Open,—,Swedish Qualifier,DreamHack Open / Swedish Qualifier
+550035,2019-10-26,2019-10-26T15:00:00Z,,Starwish eSports,Valorix,126420,126418,0,1,Valorix,126418,finished,best_of,1,DreamHack Open,—,Swedish Qualifier,DreamHack Open / Swedish Qualifier
+550030,2019-10-26,2019-10-26T14:00:00Z,,Blekingelaget,Another Bad Habbit,126425,126424,1,0,Blekingelaget,126425,finished,best_of,1,DreamHack Open,—,Swedish Qualifier,DreamHack Open / Swedish Qualifier
+550039,2019-10-26,2019-10-26T16:15:00Z,,EsportsAdviser,9INE,126405,126408,1,0,EsportsAdviser,126405,finished,best_of,1,DreamHack Open,—,Swedish Qualifier,DreamHack Open / Swedish Qualifier
+550042,2019-10-26,2019-10-26T18:00:00Z,,visomvet,EsportsAdviser,126414,126405,0,1,EsportsAdviser,126405,finished,best_of,1,DreamHack Open,—,Swedish Qualifier,DreamHack Open / Swedish Qualifier
+549352,2019-10-18,2019-10-18T01:01:00Z,,Mythic,New Identity,125801,126254,1,0,Mythic,125801,finished,best_of,1,ESEA,MDL North America,Group stage,ESEA / MDL North America / Group stage
+549351,2019-10-17,2019-10-17T01:00:00Z,,ATK,Big Frames,125859,126260,0,1,Big Frames,126260,finished,best_of,1,ESEA,MDL North America,Group stage,ESEA / MDL North America / Group stage
+549350,2019-10-16,2019-10-16T00:00:00Z,,New Identity,Peeker's Advantage,126254,126257,0,1,Peeker's Advantage,126257,finished,best_of,1,ESEA,MDL North America,Group stage,ESEA / MDL North America / Group stage
