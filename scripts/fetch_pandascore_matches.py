@@ -180,6 +180,9 @@ def normalize_matches(matches: list[dict]) -> pd.DataFrame:
             ).astype("Int64")
 
     text_columns = [
+        "team_1",
+        "team_2",
+        "winner",
         "league",
         "serie",
         "tournament"

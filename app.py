@@ -6,6 +6,8 @@ import streamlit as st
 
 
 DATA_PATH = Path("data/processed/pandascore_matches.csv")
+TEAM_COLUMNS = ["team_1", "team_2", "winner"]
+SCORE_COLUMNS = ["team_1_score", "team_2_score", "number_of_games"]
 
 
 st.set_page_config(
@@ -28,6 +30,15 @@ def load_matches() -> pd.DataFrame:
 
     df["date"] = pd.to_datetime(df["date"], errors="coerce")
     df = df.dropna(subset=["date"])
+
+    for column in TEAM_COLUMNS:
+        if column in df.columns:
+            df[column] = df[column].astype("string").str.strip()
+            df[column] = df[column].replace({"": pd.NA})
+
+    for column in SCORE_COLUMNS:
+        if column in df.columns:
+            df[column] = pd.to_numeric(df[column], errors="coerce")
 
     df = df.sort_values("date", ascending=False)
 
@@ -96,11 +107,12 @@ def build_team_view(matches: pd.DataFrame) -> pd.DataFrame:
     ]
 
     team_view = pd.concat([team_1_view, team_2_view], ignore_index=True)
+    team_view = team_view.dropna(subset=["team", "opponent", "winner"])
 
-    team_view["result"] = team_view.apply(
-        lambda row: "Win" if row["team"] == row["winner"] else "Loss",
-        axis=1
-    )
+    team_view["result"] = team_view["team"].eq(team_view["winner"]).map({
+        True: "Win",
+        False: "Loss"
+    })
 
     team_view["score_diff"] = team_view["score_for"] - team_view["score_against"]
 
@@ -154,6 +166,29 @@ def get_head_to_head(matches: pd.DataFrame, team_a: str, team_b: str) -> pd.Data
     ].copy()
 
 
+def preferred_team_index(
+    teams: list[str],
+    preferred_names: list[str],
+    fallback_index: int = 0
+) -> int:
+    for team_name in preferred_names:
+        if team_name in teams:
+            return teams.index(team_name)
+
+    return fallback_index
+
+
+def default_team_indices(teams: list[str]) -> tuple[int, int]:
+    team_a_index = preferred_team_index(teams, ["Natus Vincere", "NAVI"], 0)
+    team_b_fallback = 1 if len(teams) > 1 else 0
+    team_b_index = preferred_team_index(teams, ["Vitality", "G2"], team_b_fallback)
+
+    if team_a_index == team_b_index and len(teams) > 1:
+        team_b_index = (team_a_index + 1) % len(teams)
+
+    return team_a_index, team_b_index
+
+
 matches = load_matches()
 team_view = build_team_view(matches)
 
@@ -169,12 +204,18 @@ st.write(
 st.header("Dataset Overview")
 
 total_matches = len(matches)
-unique_teams = len(set(matches["team_1"]).union(set(matches["team_2"])))
-unique_events = matches["event_name"].nunique()
-date_min = matches["date"].min().date()
-date_max = matches["date"].max().date()
+unique_teams = team_view["team"].nunique()
+unique_tournaments = matches["tournament"].nunique()
+date_min = matches["date"].min().date().isoformat()
+date_max = matches["date"].max().date().isoformat()
 
-col_overview_1, col_overview_2, col_overview_3, col_overview_4 = st.columns(4)
+(
+    col_overview_1,
+    col_overview_2,
+    col_overview_3,
+    col_overview_4,
+    col_overview_5
+) = st.columns(5)
 
 with col_overview_1:
     st.metric("Matches", total_matches)
@@ -183,30 +224,39 @@ with col_overview_2:
     st.metric("Teams", unique_teams)
 
 with col_overview_3:
-    st.metric("Events", unique_events)
+    st.metric("Tournaments", unique_tournaments)
 
 with col_overview_4:
-    st.metric("Date Range", f"{date_min} — {date_max}")
+    st.metric("First Match", date_min)
+
+with col_overview_5:
+    st.metric("Latest Match", date_max)
 
 with st.expander("Show raw PandaScore match data"):
-    st.dataframe(matches, use_container_width=True)
+    st.dataframe(matches, width="stretch")
 
 
 st.header("Team Comparison")
 
-teams = sorted(team_view["team"].dropna().unique())
+teams = sorted(team_view["team"].dropna().unique().tolist())
+
+if not teams:
+    st.error("No valid teams found in the current dataset.")
+    st.stop()
+
+team_a_index, team_b_index = default_team_indices(teams)
 
 col_select_1, col_select_2 = st.columns(2)
 
 with col_select_1:
-    team_a = st.selectbox("Select Team A", teams, index=0)
+    team_a = st.selectbox("Select Team A", teams, index=team_a_index)
 
 with col_select_2:
-    default_index = 1 if len(teams) > 1 else 0
-    team_b = st.selectbox("Select Team B", teams, index=default_index)
+    team_b = st.selectbox("Select Team B", teams, index=team_b_index)
 
 if team_a == team_b:
     st.warning("Select two different teams for comparison.")
+    st.stop()
 
 team_a_stats = get_team_stats(team_view, team_a)
 team_b_stats = get_team_stats(team_view, team_b)
@@ -263,16 +313,19 @@ comparison_df = pd.DataFrame([
     }
 ])
 
+metric_options = {
+    "winrate": "Winrate",
+    "recent_winrate": "Recent Winrate",
+    "matches_played": "Matches Played",
+    "wins": "Wins",
+    "losses": "Losses",
+    "avg_score_diff": "Average Score Difference"
+}
+
 metric_to_plot = st.selectbox(
     "Select metric to visualize",
-    [
-        "winrate",
-        "recent_winrate",
-        "matches_played",
-        "wins",
-        "losses",
-        "avg_score_diff"
-    ]
+    list(metric_options.keys()),
+    format_func=lambda value: metric_options[value]
 )
 
 fig = px.bar(
@@ -280,10 +333,23 @@ fig = px.bar(
     x="team",
     y=metric_to_plot,
     text=metric_to_plot,
-    title=f"{metric_to_plot.replace('_', ' ').title()} Comparison"
+    title=f"{metric_options[metric_to_plot]} Comparison",
+    labels={
+        "team": "Team",
+        metric_to_plot: metric_options[metric_to_plot]
+    }
 )
 
-st.plotly_chart(fig, use_container_width=True)
+texttemplate = "%{text:.1f}" if metric_to_plot in [
+    "winrate",
+    "recent_winrate",
+    "avg_score_diff"
+] else "%{text:.0f}"
+
+fig.update_traces(texttemplate=texttemplate, textposition="outside")
+fig.update_layout(xaxis_title="", yaxis_title=metric_options[metric_to_plot])
+
+st.plotly_chart(fig, width="stretch")
 
 
 st.header("Head-to-Head")
@@ -320,7 +386,7 @@ else:
             "event_name",
             "number_of_games"
         ]],
-        use_container_width=True
+        width="stretch"
     )
 
 
@@ -340,7 +406,7 @@ with col_recent_1:
             "result",
             "event_name"
         ]],
-        use_container_width=True
+        width="stretch"
     )
 
 with col_recent_2:
@@ -355,5 +421,5 @@ with col_recent_2:
             "result",
             "event_name"
         ]],
-        use_container_width=True
+        width="stretch"
     )
