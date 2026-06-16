@@ -1,0 +1,319 @@
+series_id,start_time_scheduled,date,team_1,team_2,team_1_id,team_2_id,title,title_id,tournament,tournament_short_name,tournament_id,format,format_short_name,format_id,series_type,workflow_status,source
+2949144,2026-06-16T17:00:00Z,2026-06-16,KOLESIE,GenOne,55754,51536,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949143,2026-06-16T14:00:00Z,2026-06-16,PsychoFace,Leo Team,57103,54537,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962560,2026-06-16T11:20:00Z,2026-06-16,Clutchain,LPH Gaming,57541,55228,Counter Strike 2,28,United21 Season 51 (Group Stage),Group Stage,829713,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950821,2026-06-16T11:20:00Z,2026-06-16,EAC,KOLESIE,57172,55754,Counter Strike 2,28,European Pro League Series 7 (Playoffs),Playoffs,829554,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949142,2026-06-16T11:00:00Z,2026-06-16,illwill,ex-RUBY,56500,56563,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960789,2026-06-16T08:30:00Z,2026-06-16,DXA,MARKnLARRY,52111,56825,Counter Strike 2,28,DFRAG Open Series #5 (Playoffs),Playoffs,829692,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960788,2026-06-16T08:30:00Z,2026-06-16,Rooster,Ground Zero Gaming,49890,49701,Counter Strike 2,28,DFRAG Open Series #5 (Playoffs),Playoffs,829692,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962559,2026-06-16T08:00:00Z,2026-06-16,XEPT,MASQ,57366,57066,Counter Strike 2,28,United21 Season 51 (Group Stage),Group Stage,829713,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950820,2026-06-16T08:00:00Z,2026-06-16,Sashi,HyperSpirit,51319,56254,Counter Strike 2,28,European Pro League Series 7 (Playoffs),Playoffs,829554,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962871,2026-06-15T18:00:00Z,2026-06-15,ReThink,uust_esports,56595,56970,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952756,2026-06-15T17:00:00Z,2026-06-15,Natus Vincere,G2 Esports,51814,51822,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949141,2026-06-15T17:00:00Z,2026-06-15,SPARTA,G2 Ares,55230,53938,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952755,2026-06-15T14:30:00Z,2026-06-15,BetBoom,FUT Esports,52232,55746,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949140,2026-06-15T14:30:00Z,2026-06-15,Virtus.Pro,Brazylijski Luz,49533,53508,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2963619,2026-06-15T13:30:00Z,2026-06-15,eSuba,EAC Rising,51860,57549,Counter Strike 2,28,United21 Season 51 (Group Stage),Group Stage,829713,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952754,2026-06-15T12:00:00Z,2026-06-15,9z Team,The MongolZ,51864,51177,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949139,2026-06-15T11:00:00Z,2026-06-15,Bebop,Rustec,56386,56023,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950819,2026-06-15T10:30:00Z,2026-06-15,Walczaki,G2 Ares,57114,53938,Counter Strike 2,28,European Pro League Series 7 (Playoffs),Playoffs,829554,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960786,2026-06-15T08:45:00Z,2026-06-15,Rooster,DXA,49890,52111,Counter Strike 2,28,DFRAG Open Series #5 (Playoffs),Playoffs,829692,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960787,2026-06-15T08:10:00Z,2026-06-15,Ground Zero Gaming,MARKnLARRY,49701,56825,Counter Strike 2,28,DFRAG Open Series #5 (Playoffs),Playoffs,829692,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2963249,2026-06-15T08:00:00Z,2026-06-15,Team TDK,Young Ninjas,56690,49960,Counter Strike 2,28,European Pro League Series 7 (Playoffs),Playoffs,829554,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962557,2026-06-15T08:00:00Z,2026-06-15,Millenium,Coalesce,50780,51040,Counter Strike 2,28,United21 Season 51 (Group Stage),Group Stage,829713,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962867,2026-06-15T00:30:00Z,2026-06-15,CLUB 333,Olympus,56772,57080,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962866,2026-06-15T00:30:00Z,2026-06-15,Brahmas,Omen Esports,56965,56778,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962872,2026-06-14T17:45:00Z,2026-06-14,Arch,Oldboys,56978,56543,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952752,2026-06-14T17:39:00Z,2026-06-14,Natus Vincere,Team Falcons,51814,51967,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949138,2026-06-14T17:05:00Z,2026-06-14,Ursa,GenOne,56021,51536,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952753,2026-06-14T17:00:00Z,2026-06-14,G2 Esports,Legacy,51822,51961,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952751,2026-06-14T15:30:00Z,2026-06-14,Aurora Gaming,9z Team,55711,51864,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952750,2026-06-14T15:30:00Z,2026-06-14,BetBoom,Team Vitality,52232,51818,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952748,2026-06-14T14:20:00Z,2026-06-14,MOUZ,FUT Esports,51819,55746,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952749,2026-06-14T14:12:00Z,2026-06-14,The MongolZ,Monte,51177,51309,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949137,2026-06-14T14:00:00Z,2026-06-14,ex-RUBY,INOX Division,56563,57506,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2963247,2026-06-14T13:35:00Z,2026-06-14,Infinite,Virtus.Pro,50036,49533,Counter Strike 2,28,European Pro League Series 7 (Playoffs),Playoffs,829554,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949136,2026-06-14T11:00:00Z,2026-06-14,SPARTA,Leo Team,55230,54537,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2963248,2026-06-14T10:30:00Z,2026-06-14,Nuclear Tigeres,Oxuji,56234,56689,Counter Strike 2,28,European Pro League Series 7 (Playoffs),Playoffs,829554,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955175,2026-06-14T08:00:00Z,2026-06-14,WRAITH PCIFIC,Clutchain,57118,57541,Counter Strike 2,28,United21 Season 50 (Playoffs),Playoffs,829612,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949135,2026-06-14T08:00:00Z,2026-06-14,illwill,Virtus.Pro,56500,49533,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962865,2026-06-14T00:30:00Z,2026-06-14,Xiaoma Gaming,Omen Esports,53530,56778,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962864,2026-06-14T00:30:00Z,2026-06-14,Wanted Goons,Olympus,53540,57080,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952747,2026-06-13T18:50:00Z,2026-06-13,Team Spirit,9z Team,49586,51864,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952746,2026-06-13T17:45:00Z,2026-06-13,BetBoom,FURIA,52232,51824,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949134,2026-06-13T17:00:00Z,2026-06-13,KOLESIE,Bebop,55754,56386,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952745,2026-06-13T15:45:00Z,2026-06-13,Parivision,Legacy,52389,51961,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952744,2026-06-13T14:30:00Z,2026-06-13,Team Vitality,MOUZ,51818,51819,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949133,2026-06-13T14:10:00Z,2026-06-13,PsychoFace,G2 Ares,57103,53938,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952743,2026-06-13T12:15:00Z,2026-06-13,Team Falcons,Monte,51967,51309,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952742,2026-06-13T12:15:00Z,2026-06-13,Aurora Gaming,G2 Esports,55711,51822,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949132,2026-06-13T11:00:00Z,2026-06-13,Rustec,Heroic Academy,56023,55433,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950815,2026-06-13T10:30:00Z,2026-06-13,Misa Esports,Oxuji,56375,56689,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952741,2026-06-13T09:00:00Z,2026-06-13,B8 Esports,FUT Esports,56897,55746,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952740,2026-06-13T09:00:00Z,2026-06-13,Natus Vincere,The MongolZ,51814,51177,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955174,2026-06-13T08:15:00Z,2026-06-13,STEP,Clutchain,57367,57541,Counter Strike 2,28,United21 Season 50 (Playoffs),Playoffs,829612,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949131,2026-06-13T08:15:00Z,2026-06-13,Oxuji,Brazylijski Luz,56689,53508,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962861,2026-06-13T01:00:00Z,2026-06-13,Raisedbypixels,Omen Esports,56966,56778,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962863,2026-06-13T00:45:00Z,2026-06-13,Third Prime,Xiaoma Gaming,56949,53530,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962862,2026-06-13T00:45:00Z,2026-06-13,LAG,Olympus,51484,57080,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962860,2026-06-12T22:15:00Z,2026-06-12,Wanted Goons,F5 Esports,53540,56518,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962913,2026-06-12T17:30:00Z,2026-06-12,DONSTU ESPORTS,Oldboys,56796,56543,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949130,2026-06-12T17:20:00Z,2026-06-12,Ursa,Leo Team,56021,54537,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952738,2026-06-12T17:15:00Z,2026-06-12,Aurora Gaming,Team Spirit,55711,49586,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952739,2026-06-12T16:40:00Z,2026-06-12,Team Vitality,9z Team,51818,51864,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952736,2026-06-12T15:00:00Z,2026-06-12,Team Falcons,BetBoom,51967,52232,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952737,2026-06-12T14:30:00Z,2026-06-12,Natus Vincere,Legacy,51814,51961,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952734,2026-06-12T14:05:00Z,2026-06-12,FUT Esports,G2 Esports,55746,51822,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962591,2026-06-12T14:00:00Z,2026-06-12,HyperSpirit,Brazylijski Luz,56254,53508,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949129,2026-06-12T14:00:00Z,2026-06-12,SPARTA,GenOne,55230,51536,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955173,2026-06-12T12:00:00Z,2026-06-12,Clutchain,Mana Esports,57541,55694,Counter Strike 2,28,United21 Season 50 (Playoffs),Playoffs,829612,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952735,2026-06-12T11:30:00Z,2026-06-12,Parivision,Monte,52389,51309,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949128,2026-06-12T11:00:00Z,2026-06-12,Virtus.Pro,INOX Division,49533,57506,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950813,2026-06-12T10:30:00Z,2026-06-12,GenOne,Virtus.Pro,51536,49533,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2963124,2026-06-12T09:25:00Z,2026-06-12,Abyssal,MARKnLARRY,56725,56825,Counter Strike 2,28,DFRAG Open Series #5 (Group Stage),Group Stage,829691,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952733,2026-06-12T09:00:00Z,2026-06-12,The MongolZ,B8,51177,51885,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952732,2026-06-12T09:00:00Z,2026-06-12,FURIA,MOUZ,51824,51819,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2963119,2026-06-12T08:55:00Z,2026-06-12,Ding Cuts,DXA,56637,52111,Counter Strike 2,28,DFRAG Open Series #5 (Group Stage),Group Stage,829691,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955172,2026-06-12T08:00:00Z,2026-06-12,WRAITH PCIFIC,STEP,57118,57367,Counter Strike 2,28,United21 Season 50 (Playoffs),Playoffs,829612,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950812,2026-06-12T08:00:00Z,2026-06-12,aAa,Young Ninjas,50439,49960,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949127,2026-06-12T08:00:00Z,2026-06-12,ex-RUBY,G2 Ares,56563,53938,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952730,2026-06-11T18:40:00Z,2026-06-11,Team Spirit,Natus Vincere,49586,51814,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962869,2026-06-11T17:30:00Z,2026-06-11,XI Esport,uust_esports,54539,56970,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949126,2026-06-11T17:00:00Z,2026-06-11,KOLESIE,Heroic Academy,55754,55433,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952731,2026-06-11T16:15:00Z,2026-06-11,Aurora Gaming,Monte,55711,51309,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952728,2026-06-11T15:00:00Z,2026-06-11,Team Falcons,G2 Esports,51967,51822,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952729,2026-06-11T14:00:00Z,2026-06-11,B8 Esports,FURIA,56897,51824,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949125,2026-06-11T14:00:00Z,2026-06-11,Bebop,Oxuji,56386,56689,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952727,2026-06-11T12:15:00Z,2026-06-11,MOUZ,Legacy,51819,51961,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952726,2026-06-11T12:15:00Z,2026-06-11,Team Vitality,FUT Esports,51818,55746,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949124,2026-06-11T11:00:00Z,2026-06-11,illwill,Rustec,56500,56023,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950811,2026-06-11T10:50:00Z,2026-06-11,KOLESIE,Virtus.Pro,55754,49533,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955171,2026-06-11T10:30:00Z,2026-06-11,Mana Esports,Team UNiTY,55694,52065,Counter Strike 2,28,United21 Season 50 (Playoffs),Playoffs,829612,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952725,2026-06-11T09:00:00Z,2026-06-11,Parivision,9z Team,52389,51864,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952724,2026-06-11T09:00:00Z,2026-06-11,BetBoom,The MongolZ,52232,51177,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960783,2026-06-11T08:30:00Z,2026-06-11,Masked Regime,DXA,57512,52111,Counter Strike 2,28,DFRAG Open Series #5 (Group Stage),Group Stage,829691,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960782,2026-06-11T08:30:00Z,2026-06-11,Ground Zero Gaming,Ding Cuts,49701,56637,Counter Strike 2,28,DFRAG Open Series #5 (Group Stage),Group Stage,829691,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955170,2026-06-11T08:00:00Z,2026-06-11,Clutchain,XEPT,57541,57366,Counter Strike 2,28,United21 Season 50 (Playoffs),Playoffs,829612,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950810,2026-06-11T08:00:00Z,2026-06-11,Lazer Cats,GenOne,51641,51536,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949123,2026-06-11T08:00:00Z,2026-06-11,PsychoFace,Brazylijski Luz,57103,53508,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962884,2026-06-11T01:00:00Z,2026-06-11,Omen Esports,Clockwork,56778,56967,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962592,2026-06-11T01:00:00Z,2026-06-11,F5 Esports,Revel,56518,53538,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962633,2026-06-11T00:30:00Z,2026-06-11,Xiaoma Gaming,Iowa Stormboar,53530,57514,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962593,2026-06-11T00:30:00Z,2026-06-11,Empire,Olympus,51841,57080,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949122,2026-06-10T17:45:00Z,2026-06-10,illwill,G2 Ares,56500,53938,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962596,2026-06-10T17:30:00Z,2026-06-10,DONSTU ESPORTS,B8 Academy,56796,56663,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962595,2026-06-10T17:30:00Z,2026-06-10,NEW VISION,XI Esport,57115,54539,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962594,2026-06-10T17:30:00Z,2026-06-10,Falcons Force,Oldboys,56628,56543,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962095,2026-06-10T17:30:00Z,2026-06-10,Eternal Premium,uust_esports,56726,56970,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949121,2026-06-10T14:15:00Z,2026-06-10,KOLESIE,Leo Team,55754,54537,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950809,2026-06-10T11:20:00Z,2026-06-10,G2 Ares,Young Ninjas,53938,49960,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949120,2026-06-10T11:00:00Z,2026-06-10,Ursa,Heroic Academy,56021,55433,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955169,2026-06-10T10:30:00Z,2026-06-10,Clutchchain,STEP,57369,57367,Counter Strike 2,28,United21 Season 50 (Playoffs),Playoffs,829612,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962079,2026-06-10T08:30:00Z,2026-06-10,DXA,Ding Cuts,52111,56637,Counter Strike 2,28,DFRAG Open Series #5 (Group Stage),Group Stage,829691,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2962078,2026-06-10T08:30:00Z,2026-06-10,Ground Zero Gaming,Masked Regime,49701,57512,Counter Strike 2,28,DFRAG Open Series #5 (Group Stage),Group Stage,829691,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955168,2026-06-10T08:00:00Z,2026-06-10,WRAITH PCIFIC,Team UNiTY,57118,52065,Counter Strike 2,28,United21 Season 50 (Playoffs),Playoffs,829612,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950808,2026-06-10T08:00:00Z,2026-06-10,aAa,Rustec,50439,56023,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949119,2026-06-10T08:00:00Z,2026-06-10,SPARTA,Brazylijski Luz,55230,53508,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2961842,2026-06-10T00:00:00Z,2026-06-10,Elixir,Omen Esports,57513,56778,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952723,2026-06-09T16:50:00Z,2026-06-09,BIG,B8 Esports,51830,56897,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949118,2026-06-09T16:50:00Z,2026-06-09,PsychoFace,GenOne,57103,51536,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952722,2026-06-09T14:20:00Z,2026-06-09,Legacy,TYLOO,51961,49583,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949117,2026-06-09T14:00:00Z,2026-06-09,Virtus.Pro,Oxuji,49533,56689,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949116,2026-06-09T13:00:00Z,2026-06-09,ex-RUBY,Rustec,56563,56023,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952721,2026-06-09T12:00:00Z,2026-06-09,Monte,Pain Gaming,51309,52000,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955167,2026-06-09T10:30:00Z,2026-06-09,Mana Esports,INFURITY Gaming,55694,56594,Counter Strike 2,28,United21 Season 50 (Playoffs),Playoffs,829612,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950807,2026-06-09T10:30:00Z,2026-06-09,Lavked,Misa Esports,56847,56375,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960779,2026-06-09T08:30:00Z,2026-06-09,MGLBROS,MARKnLARRY,56986,56825,Counter Strike 2,28,DFRAG Open Series #5 (Group Stage),Group Stage,829691,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960778,2026-06-09T08:30:00Z,2026-06-09,Abyssal,Rooster,56725,49890,Counter Strike 2,28,DFRAG Open Series #5 (Group Stage),Group Stage,829691,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949115,2026-06-09T08:20:00Z,2026-06-09,INOX Division,Bebop,57506,56386,Counter Strike 2,28,CCT 2026 Europe Series 4 (Group Stage),Group Stage,829526,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955166,2026-06-09T08:00:00Z,2026-06-09,Navi Junior,XEPT,53084,57366,Counter Strike 2,28,United21 Season 50 (Playoffs),Playoffs,829612,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950806,2026-06-09T08:00:00Z,2026-06-09,Mana Esports,Oxuji,55694,56689,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960646,2026-06-09T00:30:00Z,2026-06-09,Xiaoma Gaming,Baatarz,53530,56957,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960645,2026-06-09T00:30:00Z,2026-06-09,FlyQuest RED,Clockwork,52142,56967,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960644,2026-06-09T00:30:00Z,2026-06-09,Empire,Elisir Esports,51841,51427,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960643,2026-06-09T00:30:00Z,2026-06-09,F5 Esports,Desi Boyz v6,56518,56685,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960637,2026-06-08T17:30:00Z,2026-06-08,Rounds,Oldboys (Norway),56968,57167,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960636,2026-06-08T17:30:00Z,2026-06-08,Misa Esports,Eternal Premium,56375,56726,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960635,2026-06-08T17:30:00Z,2026-06-08,DONSTU ESPORTS,Banger Gang,56796,56969,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960634,2026-06-08T17:30:00Z,2026-06-08,Oldboys,XI Esport,56543,54539,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952719,2026-06-08T17:25:00Z,2026-06-08,G2 Esports,BIG,51822,51830,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952720,2026-06-08T17:20:00Z,2026-06-08,M80,Legacy,52200,51961,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949114,2026-06-08T17:00:00Z,2026-06-08,Heroic Academy,NEW VISION,55433,57115,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952718,2026-06-08T15:00:00Z,2026-06-08,TYLOO,9z Team,49583,51864,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952717,2026-06-08T14:30:00Z,2026-06-08,Monte,BetBoom,51309,52232,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949113,2026-06-08T14:00:00Z,2026-06-08,The Last Resort,GenOne,53846,51536,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952716,2026-06-08T12:00:00Z,2026-06-08,MIBR,B8 Esports,51813,56897,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952715,2026-06-08T12:00:00Z,2026-06-08,Astralis,Pain Gaming,49528,52000,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955165,2026-06-08T11:00:00Z,2026-06-08,Mana Esports,STEP,55694,57367,Counter Strike 2,28,United21 Season 50 (Playoffs),Playoffs,829612,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949112,2026-06-08T11:00:00Z,2026-06-08,Brazylijski Luz,ex-Zero Tenacity,53508,56695,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950805,2026-06-08T10:30:00Z,2026-06-08,HyperSpirit,INOX Division,56254,57506,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2961868,2026-06-08T08:30:00Z,2026-06-08,Rooster,MARKnLARRY,49890,56825,Counter Strike 2,28,DFRAG Open Series #5 (Group Stage),Group Stage,829691,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2961867,2026-06-08T08:30:00Z,2026-06-08,Abyssal,MGLBROS,56725,56986,Counter Strike 2,28,DFRAG Open Series #5 (Group Stage),Group Stage,829691,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950804,2026-06-08T08:10:00Z,2026-06-08,PsychoFace,Brazylijski Luz,57103,53508,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955164,2026-06-08T08:00:00Z,2026-06-08,Clutchchain,INFURITY Gaming,57369,56594,Counter Strike 2,28,United21 Season 50 (Playoffs),Playoffs,829612,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949111,2026-06-08T08:00:00Z,2026-06-08,Leo Team,HyperSpirit,54537,56254,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2961841,2026-06-08T01:30:00Z,2026-06-08,Chicken Coop Esports,Third Prime,54431,56949,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952714,2026-06-07T18:50:00Z,2026-06-07,G2 Esports,FUT Esports,51822,55746,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952713,2026-06-07T17:00:00Z,2026-06-07,Team Spirit,9z Team,49586,51864,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949110,2026-06-07T17:00:00Z,2026-06-07,BIG Academy,GenOne,49845,51536,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952711,2026-06-07T15:20:00Z,2026-06-07,B8 Esports,GamerLegion,56897,49555,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952712,2026-06-07T14:30:00Z,2026-06-07,Flyquest,Pain Gaming,53909,52000,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952709,2026-06-07T14:10:00Z,2026-06-07,BetBoom,M80,52232,52200,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2949109,2026-06-07T14:00:00Z,2026-06-07,NEW VISION,Lilmix,57115,49873,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952710,2026-06-07T13:30:00Z,2026-06-07,MIBR,BIG,51813,51830,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952708,2026-06-07T12:30:00Z,2026-06-07,Astralis,TYLOO,49528,49583,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952707,2026-06-07T12:30:00Z,2026-06-07,Monte,Legacy,51309,51961,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2949108,2026-06-07T11:00:00Z,2026-06-07,HyperSpirit,Atreides,56254,56691,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950803,2026-06-07T10:50:00Z,2026-06-07,Virtus.Pro,GenOne,49533,51536,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955162,2026-06-07T10:35:00Z,2026-06-07,XEPT,WRAITH PCIFIC,57366,57118,Counter Strike 2,28,United21 Season 50 (Playoffs),Playoffs,829612,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955163,2026-06-07T08:00:00Z,2026-06-07,Team UNiTY,Navi Junior,52065,53084,Counter Strike 2,28,United21 Season 50 (Playoffs),Playoffs,829612,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950802,2026-06-07T08:00:00Z,2026-06-07,KOLESIE,Lazer Cats,55754,51641,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949107,2026-06-07T08:00:00Z,2026-06-07,Brazylijski Luz,ENCE,53508,49553,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960641,2026-06-07T01:30:00Z,2026-06-07,CLUB 333,Raisedbypixels,56772,56966,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960640,2026-06-07T00:30:00Z,2026-06-07,Wanted Goons,Brahmas,53540,56965,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960639,2026-06-07T00:30:00Z,2026-06-07,LAG,Villainous,51484,50941,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952705,2026-06-06T19:40:00Z,2026-06-06,Team Spirit,MIBR,49586,51813,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952706,2026-06-06T19:15:00Z,2026-06-06,B8 Esports,M80,56897,52200,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952703,2026-06-06T18:31:00Z,2026-06-06,BetBoom,GamerLegion,52232,49555,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952704,2026-06-06T18:11:00Z,2026-06-06,Legacy,Flyquest,51961,53909,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2961604,2026-06-06T17:30:00Z,2026-06-06,Oldboys,bankaPEPSI,56543,50084,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949106,2026-06-06T17:00:00Z,2026-06-06,ex-Zero Tenacity,BIG Academy,56695,49845,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952702,2026-06-06T16:54:00Z,2026-06-06,Pain Gaming,BIG,52000,51830,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952701,2026-06-06T16:45:00Z,2026-06-06,G2 Esports,Monte,51822,51309,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2949269,2026-06-06T16:00:00Z,2026-06-06,Johnny Speeds,100 Thieves Roobet,53618,51851,Counter Strike 2,28,CCT 2026 Europe Series 3 (Playoffs),Playoffs,829532,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952700,2026-06-06T15:30:00Z,2026-06-06,Astralis,9z Team,49528,51864,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952699,2026-06-06T15:30:00Z,2026-06-06,FUT Esports,TYLOO,55746,49583,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2949105,2026-06-06T14:00:00Z,2026-06-06,NEW VISION,Leo Team,57115,54537,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952698,2026-06-06T13:50:00Z,2026-06-06,Legacy,MIBR,51961,51813,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952697,2026-06-06T13:50:00Z,2026-06-06,Team Spirit,BetBoom,49586,52232,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2949268,2026-06-06T13:00:00Z,2026-06-06,ex-RUBY,100 Thieves Roobet,56563,51851,Counter Strike 2,28,CCT 2026 Europe Series 3 (Playoffs),Playoffs,829532,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952696,2026-06-06T12:30:00Z,2026-06-06,Monte,BIG,51309,51830,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952695,2026-06-06T12:30:00Z,2026-06-06,G2 Esports,M80,51822,52200,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952694,2026-06-06T11:30:00Z,2026-06-06,Pain Gaming,TYLOO,52000,49583,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952693,2026-06-06T11:30:00Z,2026-06-06,FUT Esports,B8 Esports,55746,56897,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2949104,2026-06-06T11:00:00Z,2026-06-06,aAa,GenOne,50439,51536,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950801,2026-06-06T10:40:00Z,2026-06-06,Rustec,Young Ninjas,56023,49960,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2961678,2026-06-06T10:30:00Z,2026-06-06,Chaos,WRAITH PCIFIC,49557,57118,Counter Strike 2,28,United21 Season 50 (Group Stage),Group Stage,829611,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952692,2026-06-06T10:30:00Z,2026-06-06,Flyquest,9z Team,53909,51864,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952691,2026-06-06T10:30:00Z,2026-06-06,Astralis,GamerLegion,49528,49555,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2949267,2026-06-06T10:00:00Z,2026-06-06,Johnny Speeds,1WIN,53618,49786,Counter Strike 2,28,CCT 2026 Europe Series 3 (Playoffs),Playoffs,829532,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955160,2026-06-06T08:00:00Z,2026-06-06,Prestige Esports,Navi Junior,55623,53084,Counter Strike 2,28,United21 Season 50 (Group Stage),Group Stage,829611,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950800,2026-06-06T08:00:00Z,2026-06-06,G2 Ares,aAa,53938,50439,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949103,2026-06-06T08:00:00Z,2026-06-06,DragonClaw,Lilmix,57500,49873,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955689,2026-06-05T19:00:00Z,2026-06-05,largadosypelados,RED Canids Academy,51501,54069,Counter Strike 2,28,Gamers Club Serie A: May 2026 (Playoffs),Playoffs,829622,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949102,2026-06-05T18:00:00Z,2026-06-05,GenOne,BIG Academy,51536,49845,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960633,2026-06-05T17:45:00Z,2026-06-05,Arch,Fire Flux TitanSeat,56978,57133,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960632,2026-06-05T17:30:00Z,2026-06-05,DONSTU ESPORTS,TEAM_COPH9K,56796,56979,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960631,2026-06-05T17:30:00Z,2026-06-05,LFO,XI Esport,55639,54539,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960630,2026-06-05T17:00:00Z,2026-06-05,QUAZAR,ReThink,51203,56595,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952690,2026-06-05T17:00:00Z,2026-06-05,NRG,BIG,51823,51830,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949266,2026-06-05T17:00:00Z,2026-06-05,100 Thieves Roobet,Phantom Esports,51851,56898,Counter Strike 2,28,CCT 2026 Europe Series 3 (Playoffs),Playoffs,829532,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949101,2026-06-05T16:10:00Z,2026-06-05,aAa,ex-Zero Tenacity,50439,56695,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2961189,2026-06-05T15:20:00Z,2026-06-05,Rounds,ENRAGE,56968,49716,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952689,2026-06-05T14:30:00Z,2026-06-05,Team Liquid,Flyquest,51815,53909,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949265,2026-06-05T14:00:00Z,2026-06-05,ex-RUBY,Bushido Wildcats,56563,55501,Counter Strike 2,28,CCT 2026 Europe Series 3 (Playoffs),Playoffs,829532,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950799,2026-06-05T12:15:00Z,2026-06-05,Oxuji,Misa Esports,56689,56375,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952688,2026-06-05T12:00:00Z,2026-06-05,TYLOO,Lynn Vision,49583,49575,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949264,2026-06-05T11:00:00Z,2026-06-05,1WIN,Betclic,49786,55653,Counter Strike 2,28,CCT 2026 Europe Series 3 (Playoffs),Playoffs,829532,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949100,2026-06-05T11:00:00Z,2026-06-05,Leo Team,Lilmix,54537,49873,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955159,2026-06-05T10:30:00Z,2026-06-05,LPH Gaming,INFURITY Gaming,55228,56594,Counter Strike 2,28,United21 Season 50 (Group Stage),Group Stage,829611,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955158,2026-06-05T08:00:00Z,2026-06-05,Passion UA AC,STEP,57068,57367,Counter Strike 2,28,United21 Season 50 (Group Stage),Group Stage,829611,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950798,2026-06-05T08:00:00Z,2026-06-05,Lavked,Mana Esports,56847,55694,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949263,2026-06-05T08:00:00Z,2026-06-05,ex-Zero Tenacity,Johnny Speeds,56695,53618,Counter Strike 2,28,CCT 2026 Europe Series 3 (Playoffs),Playoffs,829532,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949099,2026-06-05T08:00:00Z,2026-06-05,DragonClaw,NEW VISION,57500,57115,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955687,2026-06-04T21:50:00Z,2026-06-04,RED Canids Academy,paiN Academy,54069,51588,Counter Strike 2,28,Gamers Club Serie A: May 2026 (Playoffs),Playoffs,829622,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955688,2026-06-04T19:00:00Z,2026-06-04,MIBR Academy,largadosypelados,51146,51501,Counter Strike 2,28,Gamers Club Serie A: May 2026 (Playoffs),Playoffs,829622,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952687,2026-06-04T17:00:00Z,2026-06-04,M80,NRG,52200,51823,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952686,2026-06-04T17:00:00Z,2026-06-04,Team Liquid,Heroic,51815,49627,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949262,2026-06-04T17:00:00Z,2026-06-04,AM Gaming,ex-RUBY,55270,56563,Counter Strike 2,28,CCT 2026 Europe Series 3 (Playoffs),Playoffs,829532,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949098,2026-06-04T17:00:00Z,2026-06-04,HyperSpirit,Heroic Academy,56254,55433,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952685,2026-06-04T15:00:00Z,2026-06-04,MIBR,Lynn Vision,51813,49575,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952684,2026-06-04T14:30:00Z,2026-06-04,GamerLegion,BIG,49555,51830,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949261,2026-06-04T14:00:00Z,2026-06-04,100 Thieves Roobet,Ursa,51851,56021,Counter Strike 2,28,CCT 2026 Europe Series 3 (Playoffs),Playoffs,829532,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949097,2026-06-04T14:00:00Z,2026-06-04,Brazylijski Luz,The Last Resort,53508,53846,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952683,2026-06-04T12:00:00Z,2026-06-04,TYLOO,Sharks,49583,49558,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952682,2026-06-04T12:00:00Z,2026-06-04,THUNDER dOWNUNDER,Flyquest,56307,53909,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949096,2026-06-04T12:00:00Z,2026-06-04,Atreides,TNC,56691,56112,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950797,2026-06-04T11:25:00Z,2026-06-04,INOX Division,Brazylijski Luz,57506,53508,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949260,2026-06-04T11:00:00Z,2026-06-04,Betclic,KOLESIE,55653,55754,Counter Strike 2,28,CCT 2026 Europe Series 3 (Playoffs),Playoffs,829532,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955157,2026-06-04T10:30:00Z,2026-06-04,WRAITH PCIFIC,Fire Flux,57118,54166,Counter Strike 2,28,United21 Season 50 (Group Stage),Group Stage,829611,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955156,2026-06-04T08:00:00Z,2026-06-04,Chaos,Mana Esports,49557,55694,Counter Strike 2,28,United21 Season 50 (Group Stage),Group Stage,829611,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950796,2026-06-04T08:00:00Z,2026-06-04,PsychoFace,HyperSpirit,57103,56254,Counter Strike 2,28,European Pro League Series 7 (Group Stage),Group Stage,829553,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949259,2026-06-04T08:00:00Z,2026-06-04,Nemiga,Bushido Wildcats,49589,55501,Counter Strike 2,28,CCT 2026 Europe Series 3 (Playoffs),Playoffs,829532,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949095,2026-06-04T08:00:00Z,2026-06-04,ENCE,Entropy,49553,51307,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960274,2026-06-04T00:30:00Z,2026-06-04,Chicken Coop Esports,Olympus,54431,57080,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960273,2026-06-04T00:30:00Z,2026-06-04,Third Prime,Empire,56949,51841,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960272,2026-06-04T00:30:00Z,2026-06-04,Wanted Goons,FlyQuest RED,53540,52142,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960271,2026-06-04T00:30:00Z,2026-06-04,CLUB 333,Desi Boyz v6,56772,56685,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960301,2026-06-03T21:45:00Z,2026-06-03,VEXA eSports,largadosypelados,56167,51501,Counter Strike 2,28,Gamers Club Serie A: May 2026 (Playoffs),Playoffs,829622,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955685,2026-06-03T19:00:00Z,2026-06-03,paiN Academy,ALKA,51588,56901,Counter Strike 2,28,Gamers Club Serie A: May 2026 (Playoffs),Playoffs,829622,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2959687,2026-06-03T17:30:00Z,2026-06-03,Bushido Wildcats,Jumbo Team,55501,56696,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2959686,2026-06-03T17:30:00Z,2026-06-03,LFO,G2 Ares,55639,53938,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2959685,2026-06-03T17:30:00Z,2026-06-03,Rounds,Tincan,56968,56973,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2959212,2026-06-03T17:30:00Z,2026-06-03,B8 Academy,ReThink,56663,56595,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2960310,2026-06-03T17:00:00Z,2026-06-03,Gaimin Gladiators,Heroic,52001,49627,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952680,2026-06-03T17:00:00Z,2026-06-03,M80,B8 Esports,52200,56897,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949258,2026-06-03T17:00:00Z,2026-06-03,Tricked,Phantom Esports,49514,56898,Counter Strike 2,28,CCT 2026 Europe Series 3 (Playoffs),Playoffs,829532,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949094,2026-06-03T17:00:00Z,2026-06-03,Heroic Academy,TNC,55433,56112,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952679,2026-06-03T14:30:00Z,2026-06-03,TYLOO,SINNERS Esports,49583,49787,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952678,2026-06-03T14:30:00Z,2026-06-03,GamerLegion,BetBoom,49555,52232,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949257,2026-06-03T14:00:00Z,2026-06-03,Johnny Speeds,TNC,53618,56112,Counter Strike 2,28,CCT 2026 Europe Series 3 (Playoffs),Playoffs,829532,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949093,2026-06-03T14:00:00Z,2026-06-03,HyperSpirit,Atreides,56254,56691,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952677,2026-06-03T13:30:00Z,2026-06-03,THUNDER dOWNUNDER,BIG,56307,51830,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952676,2026-06-03T13:30:00Z,2026-06-03,Team Liquid,MIBR,51815,51813,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952675,2026-06-03T12:30:00Z,2026-06-03,NRG,Flyquest,51823,53909,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952674,2026-06-03T12:30:00Z,2026-06-03,Sharks,Lynn Vision,49558,49575,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2949092,2026-06-03T11:20:00Z,2026-06-03,The Last Resort,Entropy,53846,51307,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949256,2026-06-03T11:10:00Z,2026-06-03,1WIN,Lavked,49786,56847,Counter Strike 2,28,CCT 2026 Europe Series 3 (Playoffs),Playoffs,829532,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955155,2026-06-03T10:30:00Z,2026-06-03,SANGAL 1XALTERS,Navi Junior,55776,53084,Counter Strike 2,28,United21 Season 50 (Group Stage),Group Stage,829611,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955154,2026-06-03T08:00:00Z,2026-06-03,Prestige Esports,Clutchchain,55623,57369,Counter Strike 2,28,United21 Season 50 (Group Stage),Group Stage,829611,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950794,2026-06-03T08:00:00Z,2026-06-03,Young Ninjas,Entropy,49960,51307,Counter Strike 2,28,European Pro League Series 7 (Play-Ins),Play-Ins,829552,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949255,2026-06-03T08:00:00Z,2026-06-03,illwill,ex-Zero Tenacity,56500,56695,Counter Strike 2,28,CCT 2026 Europe Series 3 (Playoffs),Playoffs,829532,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949091,2026-06-03T08:00:00Z,2026-06-03,ENCE,Brazylijski Luz,49553,53508,Counter Strike 2,28,CCT 2026 Europe Series 4 (Play-Ins),Play-Ins,829525,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2957883,2026-06-03T01:00:00Z,2026-06-03,Brahmas,NineFly Esports,56965,56961,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2959913,2026-06-03T00:30:00Z,2026-06-03,Xiaoma Gaming,FRZ Unit,53530,56954,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2957882,2026-06-03T00:30:00Z,2026-06-03,F5 Esports,Beyond Limits,56518,56600,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955684,2026-06-02T22:40:00Z,2026-06-02,METANOIA WOLVES,MIBR Academy,56755,51146,Counter Strike 2,28,Gamers Club Serie A: May 2026 (Playoffs),Playoffs,829622,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952672,2026-06-02T19:25:00Z,2026-06-02,BetBoom,Team Liquid,52232,51815,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2955683,2026-06-02T19:00:00Z,2026-06-02,RED Canids Academy,QUINTESSENCIA,54069,57015,Counter Strike 2,28,Gamers Club Serie A: May 2026 (Playoffs),Playoffs,829622,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952673,2026-06-02T18:50:00Z,2026-06-02,BIG,Gaimin Gladiators,51830,52001,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2959912,2026-06-02T18:30:00Z,2026-06-02,ENRAGE,Wingman,49716,53916,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952670,2026-06-02T18:10:00Z,2026-06-02,GamerLegion,Flyquest,49555,53909,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952671,2026-06-02T17:45:00Z,2026-06-02,M80,Sharks,52200,49558,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2959474,2026-06-02T17:00:00Z,2026-06-02,DONSTU ESPORTS,Fire Flux TitanSeat,56796,57133,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949254,2026-06-02T17:00:00Z,2026-06-02,VRSDelivery,Bushido Wildcats,57181,55501,Counter Strike 2,28,CCT 2026 Europe Series 3 (Group Stage),Group Stage,829531,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952669,2026-06-02T16:45:00Z,2026-06-02,SINNERS Esports,NRG,49787,51823,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952668,2026-06-02T16:45:00Z,2026-06-02,MIBR,TYLOO,51813,49583,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952667,2026-06-02T15:30:00Z,2026-06-02,Heroic,Lynn Vision,49627,49575,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952666,2026-06-02T15:30:00Z,2026-06-02,THUNDER dOWNUNDER,B8 Esports,56307,56897,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952664,2026-06-02T14:20:00Z,2026-06-02,BIG,Team Liquid,51830,51815,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952665,2026-06-02T14:00:00Z,2026-06-02,BetBoom,Gaimin Gladiators,52232,52001,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2949253,2026-06-02T14:00:00Z,2026-06-02,Lavked,ASTRAL,56847,56694,Counter Strike 2,28,CCT 2026 Europe Series 3 (Group Stage),Group Stage,829531,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950795,2026-06-02T13:45:00Z,2026-06-02,CYBERSHOKE Prospects,GenOne,56601,51536,Counter Strike 2,28,European Pro League Series 7 (Play-Ins),Play-Ins,829552,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952662,2026-06-02T13:05:00Z,2026-06-02,GamerLegion,NRG,49555,51823,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952663,2026-06-02T12:50:00Z,2026-06-02,Heroic,Sharks,49627,49558,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952660,2026-06-02T11:55:00Z,2026-06-02,B8 Esports,TYLOO,56897,49583,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952661,2026-06-02T11:45:00Z,2026-06-02,MIBR,THUNDER dOWNUNDER,51813,56307,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2950793,2026-06-02T11:00:00Z,2026-06-02,VRSDelivery,Misa Esports,57181,56375,Counter Strike 2,28,European Pro League Series 7 (Play-Ins),Play-Ins,829552,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949252,2026-06-02T11:00:00Z,2026-06-02,Rebels Gaming,ex-Zero Tenacity,53754,56695,Counter Strike 2,28,CCT 2026 Europe Series 3 (Group Stage),Group Stage,829531,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955153,2026-06-02T10:30:00Z,2026-06-02,FUT Turkuaz,INFURITY Gaming,57368,56594,Counter Strike 2,28,United21 Season 50 (Group Stage),Group Stage,829611,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2952659,2026-06-02T10:30:00Z,2026-06-02,M80,Lynn Vision,52200,49575,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2952658,2026-06-02T10:30:00Z,2026-06-02,SINNERS Esports,Flyquest,49787,53909,Counter Strike 2,28,IEM Cologne 2026 (Swiss Stage),Swiss Stage,829582,best-of-1,Bo1,1,ESPORTS,PUBLISHED,GRID
+2950792,2026-06-02T08:10:00Z,2026-06-02,Brazylijski Luz,Atreides,53508,56691,Counter Strike 2,28,European Pro League Series 7 (Play-Ins),Play-Ins,829552,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955152,2026-06-02T08:00:00Z,2026-06-02,LPH Gaming,Team UNiTY,55228,52065,Counter Strike 2,28,United21 Season 50 (Group Stage),Group Stage,829611,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2959895,2026-06-02T00:30:00Z,2026-06-02,FlyQuest RED,Elisir Esports,52142,51427,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2957881,2026-06-02T00:30:00Z,2026-06-02,Surge,Baatarz,50374,56957,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2957879,2026-06-02T00:30:00Z,2026-06-02,Empire,Clockwork,51841,56967,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2957880,2026-06-02T00:00:00Z,2026-06-02,Omen Esports,Olympus,56778,57080,Counter Strike 2,28,ESEA Advanced Season 57 - NA (Playoffs),Playoffs,829661,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2959471,2026-06-01T17:45:00Z,2026-06-01,VP.Prodigy,ReThink,49805,56595,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2959470,2026-06-01T17:45:00Z,2026-06-01,Misa Esports,Falcons Force,56375,56628,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2959469,2026-06-01T17:45:00Z,2026-06-01,NEW VISION,Banger Gang,57115,56969,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2959468,2026-06-01T17:45:00Z,2026-06-01,QUAZAR,Eternal Premium,51203,56726,Counter Strike 2,28,ESEA Advanced Season 57 - Europe (Playoffs),Playoffs,829662,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949251,2026-06-01T17:10:00Z,2026-06-01,KOLESIE,Lavked,55754,56847,Counter Strike 2,28,CCT 2026 Europe Series 3 (Group Stage),Group Stage,829531,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949250,2026-06-01T14:00:00Z,2026-06-01,Ursa,ex-Zero Tenacity,56021,56695,Counter Strike 2,28,CCT 2026 Europe Series 3 (Group Stage),Group Stage,829531,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955149,2026-06-01T13:30:00Z,2026-06-01,Mana Esports,WRAITH PCIFIC,55694,57118,Counter Strike 2,28,United21 Season 50 (Group Stage),Group Stage,829611,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955151,2026-06-01T12:10:00Z,2026-06-01,ReThink,STEP,56595,57367,Counter Strike 2,28,United21 Season 50 (Group Stage),Group Stage,829611,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2949249,2026-06-01T11:00:00Z,2026-06-01,Phantom Esports,VRSDelivery,56898,57181,Counter Strike 2,28,CCT 2026 Europe Series 3 (Group Stage),Group Stage,829531,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950791,2026-06-01T10:35:00Z,2026-06-01,Entropy,Project 91,51307,57031,Counter Strike 2,28,European Pro League Series 7 (Play-Ins),Play-Ins,829552,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2955150,2026-06-01T08:10:00Z,2026-06-01,Passion UA AC,XEPT,57068,57366,Counter Strike 2,28,United21 Season 50 (Group Stage),Group Stage,829611,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
+2950790,2026-06-01T08:00:00Z,2026-06-01,DONSTU ESPORTS,GenOne,56796,51536,Counter Strike 2,28,European Pro League Series 7 (Play-Ins),Play-Ins,829552,best-of-3,Bo3,3,ESPORTS,PUBLISHED,GRID
